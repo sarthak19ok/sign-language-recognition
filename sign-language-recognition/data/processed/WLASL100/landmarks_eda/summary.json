@@ -13,5 +13,12 @@
   },
   "array_shape": "(T,225), float32 expected",
   "median_frames": 70.0,
-  "median_missing_pct": 31.58333333333333
+  "median_missing_pct": 31.58333333333333,
+  "median_mean_frame_motion": 0.03439398854970932,
+  "signer_overlap": {
+    "train_val": [],
+    "train_test": [],
+    "val_test": []
+  },
+  "pca_note": "Exploratory descriptive PCA over all clips; not for model evaluation."
 }

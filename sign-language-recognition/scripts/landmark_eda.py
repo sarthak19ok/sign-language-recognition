@@ -3,6 +3,10 @@ from pathlib import Path
 import json
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.decomposition import PCA
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "processed" / "WLASL100"
@@ -32,6 +36,7 @@ if index["experimental_split"].isna().any():
 index.to_csv(OUT / "combined_landmark_index.csv", index=False)
 
 records = []
+pca_vectors = []
 for row in index.itertuples(index=False):
     path = Path(row.npy_path)
     arr = np.load(path, mmap_mode="r")
@@ -40,6 +45,18 @@ for row in index.itertuples(index=False):
     arr = np.asarray(arr, dtype=np.float32)
     pose, left, right = arr[:, :99], arr[:, 99:162], arr[:, 162:225]
     finite = np.isfinite(arr)
+    # Descriptive motion: mean finite per-coordinate frame displacement.
+    delta = np.diff(arr, axis=0)
+    motion = float(np.nanmean(np.linalg.norm(delta.reshape(len(delta), 75, 3), axis=2))) if len(delta) else 0.0
+    # Per-frame shoulder-centred and shoulder-width-scaled pose+hand vector for exploratory PCA.
+    xyz = arr.reshape(-1, 75, 3).copy()
+    pose_xyz = arr[:, :99].reshape(-1, 33, 3)
+    shoulders = pose_xyz[:, [11, 12], :]
+    center = np.nanmean(shoulders, axis=1)
+    width = np.linalg.norm(shoulders[:, 0] - shoulders[:, 1], axis=1)
+    width = np.where(np.isfinite(width) & (width > 1e-5), width, np.nan)
+    normalized = (xyz - center[:, None, :]) / width[:, None, None]
+    pca_vectors.append(np.nanmean(normalized, axis=0).reshape(-1))
     records.append({
         "video_id": row.video_id, "gloss": row.gloss, "signer_id": row.signer_id,
         "split": row.experimental_split, "landmark_source": row.landmark_source,
@@ -47,7 +64,7 @@ for row in index.itertuples(index=False):
         "pose_missing_pct": 100 * (1 - np.isfinite(pose).mean()),
         "left_hand_missing_pct": 100 * (1 - np.isfinite(left).mean()),
         "right_hand_missing_pct": 100 * (1 - np.isfinite(right).mean()),
-        "all_missing_pct": 100 * (1 - finite.mean()),
+        "all_missing_pct": 100 * (1 - finite.mean()), "mean_frame_motion": motion,
     })
 quality = pd.DataFrame(records)
 quality.to_csv(OUT / "per_video_quality.csv", index=False)
@@ -62,6 +79,32 @@ quality.groupby("gloss").agg(videos=("video_id", "count"), signers=("signer_id",
 quality.groupby("signer_id").agg(videos=("video_id", "count"), classes=("gloss", "nunique"),
     median_frames=("frames", "median"), median_missing_pct=("all_missing_pct", "median")).to_csv(OUT / "signer_summary.csv")
 
+# Confirm that the intended signer-independent split is actually disjoint.
+signer_sets = {name: set(quality.loc[quality.split == name, "signer_id"].astype(str)) for name in ("train", "val", "test")}
+overlap = {f"{a}_{b}": sorted(signer_sets[a] & signer_sets[b]) for a,b in (("train","val"),("train","test"),("val","test"))}
+if any(overlap.values()):
+    raise ValueError(f"Signer leakage across split_v2: {overlap}")
+
+quality.groupby("gloss").agg(mean_motion=("mean_frame_motion", "mean"), median_motion=("mean_frame_motion", "median")).to_csv(OUT / "motion_by_class.csv")
+quality.groupby("signer_id").agg(mean_motion=("mean_frame_motion", "mean"), median_motion=("mean_frame_motion", "median")).to_csv(OUT / "motion_by_signer.csv")
+
+# Exploratory only: descriptive PCA uses all available videos for visualization; never reuse
+# this fitted transform in a predictive evaluation. Model PCA/scaling must be fold-local.
+X = SimpleImputer(strategy="median").fit_transform(np.asarray(pca_vectors, dtype=np.float32))
+X = StandardScaler().fit_transform(X)
+Z = PCA(n_components=2, random_state=42).fit_transform(X)
+for column, filename, title in (("gloss", "pca_by_gloss.png", "Exploratory PCA colored by gloss"), ("signer_id", "pca_by_signer.png", "Exploratory PCA colored by signer")):
+    labels = quality[column].astype(str)
+    codes, categories = pd.factorize(labels, sort=True)
+    fig, ax = plt.subplots(figsize=(11, 8))
+    scatter = ax.scatter(Z[:, 0], Z[:, 1], c=codes, cmap="turbo", s=14, alpha=.75, linewidths=0)
+    ax.set(title=title + " (all available clips; descriptive only)", xlabel="PC1", ylabel="PC2")
+    if len(categories) <= 25:
+        cb=fig.colorbar(scatter, ax=ax, ticks=np.arange(len(categories))); cb.ax.set_yticklabels(categories)
+    else:
+        ax.text(.99,.01,f"{len(categories)} categories; color IDs are not individually labeled",transform=ax.transAxes,ha="right",va="bottom",fontsize=8)
+    fig.tight_layout(); fig.savefig(OUT / filename,dpi=180); plt.close(fig)
+
 summary = {
     "videos": int(len(quality)), "classes": int(quality.gloss.nunique()),
     "signers": int(quality.signer_id.nunique()),
@@ -70,6 +113,9 @@ summary = {
     "array_shape": "(T,225), float32 expected",
     "median_frames": float(quality.frames.median()),
     "median_missing_pct": float(quality.all_missing_pct.median()),
+    "median_mean_frame_motion": float(quality.mean_frame_motion.median()),
+    "signer_overlap": overlap,
+    "pca_note": "Exploratory descriptive PCA over all clips; not for model evaluation.",
 }
 (OUT / "summary.json").write_text(json.dumps(summary, indent=2))
 print(json.dumps(summary, indent=2))
