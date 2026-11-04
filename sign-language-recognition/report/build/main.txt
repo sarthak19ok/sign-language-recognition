@@ -1,0 +1,867 @@
+                                 A REPORT
+                                   ON
+     SIGNER-INDEPENDENT ISOLATED SIGN RECOGNITION
+          ON WLASL-100 USING POSE LANDMARKS
+
+
+
+                                    BY
+
+
+
+
+Name of the student     ID No.                Discipline
+
+Sarthak Shrivastava     2024ADPS0740P         B.E. Mathematics and Com-
+
+                                              puting
+
+Sahil Singh Chauhan     2024ADPS0650P         B.E. Mathematics and Com-
+
+                                              puting
+
+
+
+
+                  Prepared in partial fulllment of the
+                   Self-Study Project component of
+                 MAC F312: Foundations of Data Science
+
+                                    AT
+
+
+
+              Birla Institute of Technology & Science, Pilani
+                        Department of Mathematics
+
+
+
+
+    BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+                            4 November 2026
+      BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+                   Department of Mathematics
+
+Course: MAC F312: Foundations of Data Science
+
+Date of submission: 4 November 2026
+
+Title of the project: Signer-Independent Isolated Sign Recognition on WLASL-100 Using
+
+Pose Landmarks
+
+Students:   2024ADPS0740P, Sarthak Shrivastava, B.E. Mathematics and Computing;
+
+2024ADPS0650P, Sahil Singh Chauhan, B.E. Mathematics and Computing
+
+Course instructor: Dr Niladri Chatterjee, Department of Mathematics
+
+Key words: sign language recognition, WLASL-100, MediaPipe Holistic, landmark fea-
+
+tures, signer-independent evaluation, classication
+
+Project area(s): Data Science and Machine Learning
+
+Abstract: This project studies isolated word-level American Sign Language recognition
+
+using pose landmarks from the WLASL-100 dataset. The original subset contains 2,038
+
+instances across 100 gloss classes. Because many source links were unavailable, the us-
+
+able landmark collection contains 1,466 clips (72% of the subset): 1,013 recovered from a
+
+Kaggle mirror and 453 available in the project repository. Each clip is represented by Me-
+
+diaPipe Holistic pose and hand landmarks. A signer-independent split assigns 868 clips to
+
+training, 294 to validation, and 304 to testing, with no signer overlap. Preprocessing nor-
+
+malizes coordinates, lls short gaps, resamples sequences, and derives hand-joint angles
+
+and velocity features. Classical models are selected using three-fold signer-grouped cross-
+
+validation; LSTM and GRU sequence models are also compared.          Extra Trees obtains
+
+the highest held-out accuracy among the evaluated models at 61.8%, followed by logistic
+
+regression at 60.5%. The results show that signer separation is essential: a random-clip
+
+split produces inated estimates because the same signers appear in both training and
+
+evaluation data. The study also identies dataset availability, missing hand landmarks,
+
+small per-class counts, and variation across signers as important limitations.
+Acknowledgements
+
+We thank Dr Niladri Chatterjee of the Department of Mathematics for his guidance in
+
+MAC F312: Foundations of Data Science. We also acknowledge the WLASL authors and
+
+the developers of MediaPipe, scikit-learn, PyTorch, and the other open-source tools used
+
+in this project.
+
+We acknowledge the authors of the WLASL dataset, whose benchmark made this study
+
+possible, and the maintainers of the open-source tools used for landmark extraction, data
+
+processing, and modelling, in particular MediaPipe, scikit-learn, and PyTorch.
+
+
+
+
+                                            i
+Contents
+
+1 Introduction                                                                              1
+  1.1   Background    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    1
+
+  1.2   Problem statement     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    1
+
+  1.3   Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1
+
+  1.4   Scope   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2
+
+
+
+2 Related Work                                                                              3
+  2.1   Word-level sign recognition . . . . . . . . . . . . . . . . . . . . . . . . . .      3
+
+  2.2   Pose-based representations . . . . . . . . . . . . . . . . . . . . . . . . . .       3
+
+  2.3   Classical and temporal classiers     . . . . . . . . . . . . . . . . . . . . . .    3
+
+  2.4   Evaluation and signer leakage     . . . . . . . . . . . . . . . . . . . . . . . .    4
+
+
+
+3 Data and Methodology                                                                      5
+  3.1   Dataset and availability    . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+
+  3.2   Signer-independent partitions     . . . . . . . . . . . . . . . . . . . . . . . .    5
+
+  3.3   Landmark extraction and quality checks        . . . . . . . . . . . . . . . . . .    6
+
+  3.4   Preprocessing and features . . . . . . . . . . . . . . . . . . . . . . . . . .       6
+
+  3.5   Exploratory data analysis     . . . . . . . . . . . . . . . . . . . . . . . . . .    7
+
+  3.6   Model selection protocol    . . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+
+  3.7   Compared models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        8
+
+
+
+4 Experiments and Results                                                                   9
+  4.1   Feature ablations   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    9
+
+  4.2   Classical model comparison      . . . . . . . . . . . . . . . . . . . . . . . . .    9
+
+  4.3   LSTM and GRU comparison . . . . . . . . . . . . . . . . . . . . . . . . .           10
+
+
+
+
+                                             ii
+  4.4   Random-split diagnostic     . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+  4.5   Error analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    11
+
+
+
+5 Discussion                                                                                12
+  5.1   Main ndings    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   12
+
+  5.2   Limitations   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   12
+
+  5.3   Validity and leakage controls . . . . . . . . . . . . . . . . . . . . . . . . .     12
+
+
+
+6 Conclusion                                                                                13
+  6.1   Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    13
+
+
+
+Bibliography                                                                                14
+
+7 Project File Workow                                                                      15
+
+A Reproducibility Notes                                                                     16
+
+
+
+
+                                             iii
+List of Figures
+
+ 3.1   Sample visual quality check of extracted pose and hand landmarks.       . . .   6
+
+ 3.2   Exploratory PCA view coloured by gloss class. . . . . . . . . . . . . . . .     7
+
+ 3.3   Exploratory PCA view coloured by signer.    . . . . . . . . . . . . . . . . .   8
+
+
+
+
+                                          iv
+List of Tables
+
+ 3.1   Available landmark clips used in the experiments.        . . . . . . . . . . . . .    5
+
+ 3.2   Frozen signer-independent split. . . . . . . . . . . . . . . . . . . . . . . .        6
+
+
+
+ 4.1   Selected feature and temporal-length ablations (mean signer-grouped CV
+
+       accuracy). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     9
+
+ 4.2   Classical model performance.       Cross-validation is three-fold and signer-
+
+       grouped. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     10
+
+ 4.3   Temporal model performance using the selected hand-angle-plus-mask rep-
+
+       resentation.   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+
+
+
+                                             v
+Chapter 1
+
+Introduction
+
+1.1 Background
+Sign languages communicate through coordinated hand shape and motion, body posture,
+
+and facial or head cues. Recognizing an isolated sign from a short video is a multi-class
+
+classication task: a clip is assigned one word-level gloss. It diers from continuous sign-
+
+language translation, which must also locate sign boundaries and model sentence-level
+
+structure.
+
+This project explores a lightweight recognition pipeline based on pose landmarks rather
+
+than raw video pixels.   Landmark features reduce the visual input to body and hand
+
+coordinates and make it possible to compare classical machine-learning methods with
+
+temporal neural networks.
+
+
+
+
+1.2 Problem statement
+The objective is to classify each WLASL-100 video instance into one of 100 gloss classes
+
+while evaluating on signers absent from model training. The main methodological chal-
+
+lenge is to build a reproducible pipeline despite incomplete video availability, missing
+
+landmarks, and substantial signer variation.
+
+
+
+
+1.3 Objectives
+1. Audit the WLASL-100 metadata and establish a reproducible, signer-independent
+
+   dataset split.
+
+
+2. Obtain available clips and extract pose and hand landmarks once for downstream
+
+   experiments.
+
+
+3. Quantify clip, signer, class, and landmark coverage before modelling.
+
+
+                                             1
+4. Compare coordinate, angle, velocity, and temporal aggregation choices.
+
+
+5. Tune classical and recurrent classiers without signer leakage and report held-out test
+
+  performance.
+
+
+
+
+1.4 Scope
+We focus on recognizing one pre-segmented sign per clip from the WLASL-100 subset. We
+
+use MediaPipe Holistic landmarks rather than training directly on video pixels. Continu-
+
+ous signing, sentence translation, and a live-camera application are outside this project.
+
+
+
+
+                                            2
+Chapter 2
+
+Related Work
+
+2.1 Word-level sign recognition
+Word-level sign recognition assigns a gloss to a pre-segmented sign video. WLASL pro-
+
+vides a large-scale benchmark of word-level ASL clips and signer metadata, enabling
+
+experiments with variation in signer identity, recording conditions, and execution.   Its
+
+original paper evaluates video-based recognition methods, while this project uses the
+
+dataset as a benchmark for a landmark-based pipeline [1].
+
+
+
+
+2.2 Pose-based representations
+Pose estimation represents a person using a set of body joints.    Hand landmarks are
+
+especially relevant to sign recognition, while upper-body landmarks provide context and
+
+help describe movement relative to the torso.   MediaPipe Holistic estimates pose and
+
+hand landmarks in a unied pipeline [2].   In this project, each frame contains 33 pose
+
+points and 21 points for each hand, with three coordinates per point, for 225 values per
+
+frame.
+
+
+
+
+2.3 Classical and temporal classiers
+Logistic regression, k-nearest neighbours, random forests, extremely randomized trees,
+
+support vector machines, and gradient-boosted trees provide interpretable or ecient
+
+baselines for xed-length feature vectors. Recurrent neural networks such as LSTM and
+
+GRU models can process frame sequences directly and represent temporal order. A fair
+
+comparison requires consistent splits and careful tting of imputation and scaling within
+
+the training data of each fold.
+
+
+
+
+                                           3
+2.4 Evaluation and signer leakage
+Recordings from the same signer can share appearance, camera placement, clothing, and
+
+signing style. If clips from one signer appear in both training and test sets, a model may
+
+exploit signer-specic cues.   We therefore keep signers disjoint across train, validation,
+
+and test partitions and use signer-grouped folds during model selection.
+
+
+
+
+                                             4
+Chapter 3
+
+Data and Methodology
+
+3.1 Dataset and availability
+The WLASL-100 subset contains 2,038 metadata instances across 100 glosses. We kept
+
+the ocial WLASL-100 class list.      Many original video links no longer worked, so we
+
+assembled the usable set from videos already in the repository and a Kaggle mirror.
+
+Landmark arrays are available for 1,466 clips:        1,013 from Kaggle and 453 from the
+
+repository. The remaining 572 instances could not be recovered and were excluded.
+
+
+
+                                 Source                Clips
+
+
+                                 Kaggle mirror         1,013
+
+                                 Project repository      453
+
+                                 Total usable clips    1,466
+
+                                 Not available           572
+
+                                 Metadata total        2,038
+
+
+              Table 3.1: Available landmark clips used in the experiments.
+
+
+
+
+3.2 Signer-independent partitions
+Our frozen split has 868 training, 294 validation, and 304 test clips. It includes 46, 12, and
+
+15 signers in those partitions, with no signer appearing in more than one. We searched
+
+seeded GroupShueSplit assignments to nd a split with class coverage, then used it
+
+consistently for all experiments. All 100 classes appear in each partition, but some have
+
+only one or two validation or test clips, so their individual scores are uncertain.
+
+
+
+
+                                              5
+                           Partition    Clips       Signers   Classes
+
+
+                           Train         868            46       100
+
+                           Validation    294            12       100
+
+                           Test          304            15       100
+
+
+                        Table 3.2: Frozen signer-independent split.
+
+
+
+
+3.3 Landmark extraction and quality checks
+We ran MediaPipe Holistic once for each available video and saved one NumPy array
+
+per clip.   Each frame has 33 body-pose points, 21 left-hand points, and 21 right-hand
+
+points, with (x, y, z) coordinates, for 225 values in total. Missed detections are kept as
+
+missing values.   We use the saved clip frame ranges; bounding-box cropping is o by
+
+default because the boxes for some YouTube-derived clips are unreliable.
+
+We checked overlays for 20 clips against their video frames. The body pose usually follows
+
+the signer, but hand points are less reliable; some clips show only one hand clearly. The
+
+median clip length is 70 frames. Across clips, the median missing-coordinate rate is 31.6%.
+
+Pose is detected in nearly every frame, while median hand missingness varies from about
+
+38% to 81% depending on the source and hand.
+
+
+
+
+    Figure 3.1: Sample visual quality check of extracted pose and hand landmarks.
+
+
+
+
+3.4 Preprocessing and features
+We interpolate gaps of up to three frames and leave longer gaps missing. Coordinates
+
+are centered on the shoulders and scaled by shoulder width, then resampled to a xed
+
+
+
+
+                                                6
+sequence length.   The saved feature bundle contains normalized coordinates, frame-to-
+
+frame velocity, and joint angles. For the classical comparison, we summarize 64 frames
+
+in two temporal bins using both hands and their angles. For LSTM and GRU, we use
+
+32-frame hand-and-angle sequences and provide a mask that marks missing values.
+
+Any imputation or scaling statistics are learned from the relevant training fold only.
+
+The classical pipelines impute missing values, and scale inputs for models that rely on
+
+distances or margins. Sequence-model normalization is also tted on the training portion
+
+of each run.
+
+
+
+
+3.5 Exploratory data analysis
+Before modelling, we counted clips and signers by class, measured clip lengths and miss-
+
+ingness, and summarized motion. The PCA plots are descriptive views of the available
+
+clips, coloured once by gloss and once by signer. They are for exploration only; they do
+
+not select or t the models. The plots show variation between signers, which is why we
+
+evaluate on signers held out from training.
+
+
+
+
+               Figure 3.2: Exploratory PCA view coloured by gloss class.
+
+
+
+
+                                              7
+                 Figure 3.3: Exploratory PCA view coloured by signer.
+
+
+
+
+3.6 Model selection protocol
+We chose classical model settings by mean macro-F1 across three signer-grouped folds of
+
+the training partition. We then checked each selected setting on validation. For the nal
+
+score, each model was ret using train plus validation and evaluated once on the frozen
+
+test partition. Test results did not guide model or hyperparameter choices. We compared
+
+LSTM and GRU input variants with the same grouped-CV approach, then evaluated the
+
+selected hand-angle-plus-mask input on the test partition.
+
+
+
+
+3.7 Compared models
+The classical families are logistic regression, k-nearest neighbours (kNN), RBF support
+
+vector machine (SVM), random forest, Extra Trees, and XGBoost. The temporal models
+
+are a bidirectional LSTM and a bidirectional GRU with a 96-unit hidden state in each
+
+direction and dropout.   Class imbalance is addressed with class weighting or sample
+
+weighting, depending on the estimator.
+
+
+
+
+                                           8
+Chapter 4
+
+Experiments and Results
+
+4.1 Feature ablations
+Across the grouped training folds, using both hands with hand angles worked better than
+
+using coordinates alone or either hand on its own.   Adding velocity reduced grouped-
+
+CV accuracy in this experiment.   Left-hand-only accuracy was lowest; this may reect
+
+both one-handed signs and less reliable left-hand detections.   In the sequence-length
+
+comparison, the 64-frame Extra Trees representation scored higher than the 16- and
+
+32-frame versions.
+
+
+                      Feature or setting                Accuracy
+
+
+                      Both hands + angles                  41.9%
+
+                      Both hands + angles + velocity       38.2%
+
+                      Right hand + angles                  33.2%
+
+                      Both hands, coordinates only         29.1%
+
+                      Left hand + angles                   17.7%
+
+                      16-frame sequences                   41.0%
+
+                      32-frame sequences                   41.9%
+
+                      64-frame sequences                   44.2%
+
+
+Table 4.1: Selected feature and temporal-length ablations (mean signer-grouped CV ac-
+
+curacy).
+
+
+
+
+4.2 Classical model comparison
+Section 4.2 compares the six classical models. Extra Trees had the strongest grouped-CV
+
+accuracy and the highest test accuracy, 61.8%.    Logistic regression was close on both
+
+validation and test. The test score is noticeably higher than the grouped-CV average, so
+
+
+                                            9
+this single split should be read as one estimate; it does not guarantee the same result for
+
+new signers.
+
+
+
+      Model               Grouped-CV accuracy Validation accuracy Test accuracy
+      Extra Trees                       44.2%               50.3%        61.8%
+      Logistic regression               42.6%               50.3%         60.5%
+      Random forest                     39.4%               45.2%         55.9%
+      XGBoost                           35.8%               44.6%         53.6%
+      RBF SVM                           34.8%               40.5%         52.3%
+      kNN                               27.1%               33.3%         39.8%
+Table 4.2:     Classical model performance.        Cross-validation is three-fold and signer-
+
+grouped.
+
+
+
+
+4.3 LSTM and GRU comparison
+The recurrent models use hand coordinates, hand angles, and a mask for missing values.
+
+Their grouped-CV scores were below those of the best classical models.           On the one
+
+held-out test split, GRU accuracy was 52.0% and LSTM accuracy was 48.7%. The gap
+
+between grouped-CV and test results is large, which is a reminder that results can vary
+
+with the signers in each partition.
+
+
+
+           Model    Grouped-CV accuracy       Validation accuracy    Test accuracy
+
+
+           LSTM                       26.4%                  24.8%           48.7%
+
+           GRU                        19.6%                  21.4%           52.0%
+
+
+Table 4.3: Temporal model performance using the selected hand-angle-plus-mask repre-
+
+sentation.
+
+
+
+
+4.4 Random-split diagnostic
+For comparison, a random clip split averaged 58.8% across three seeds. It shared 2832
+
+signers between training and evaluation, so it lets the models see signers they have already
+
+encountered. We include it only as a leakage check; it is not a signer-independent result
+
+and was not used to choose the nal models.
+
+
+
+
+                                              10
+4.5 Error analysis
+Validation scores hide large dierences between glosses.   Many classes have only a few
+
+clips in the 294-clip validation set, and the Extra Trees model missed every validation
+
+example for some classes. Among the most frequent confusions, cousin was predicted
+
+as hat and candy as pink. With so few examples per class, these patterns are useful
+
+leads, but not rm conclusions.
+
+
+
+
+                                           11
+Chapter 5
+
+Discussion
+
+5.1 Main ndings
+The comparison favoured Extra Trees and logistic regression among the classical models.
+
+Using both hands and hand angles was more useful than coordinates alone, and adding
+
+velocity did not help in the tested setup.    The 64-frame version also did better than
+
+shorter sequences in the Extra Trees length comparison.
+
+
+
+
+5.2 Limitations
+We could recover clips for 1,466 of the 2,038 metadata instances, and the missing 572 may
+
+not be a random subset. There are few examples for many of the 100 glosses, and the data
+
+are unevenly distributed across signers. Hand landmarks are often missing or unstable,
+
+which removes useful information from the features.      We visually checked 20 overlays,
+
+but did not manually review every clip. Some frame ranges from YouTube sources may
+
+include a few frames of a title card. Finally, the test partition represents only 15 signers,
+
+so its score is one estimate and class-level results may change with a dierent group of
+
+signers.
+
+
+
+
+5.3 Validity and leakage controls
+No signer appears in more than one of the saved train, validation, and test partitions.
+
+We selected the classical settings using grouped folds within the training set, and tted
+
+data-dependent preprocessing on the relevant training partition. The random clip exper-
+
+iment is reported separately because its signer overlap makes it unsuitable for the main
+
+comparison. We used the test partition after model selection for the scores in this report;
+
+it should not be used to choose further settings.
+
+
+
+
+                                             12
+Chapter 6
+
+Conclusion
+
+6.1 Conclusion
+We assembled a usable landmark set from the available WLASL-100 videos and used it to
+
+compare six classical classiers and two sequence models under a signer-independent split.
+
+Extra Trees had the highest test accuracy at 61.8%; logistic regression followed at 60.5%.
+
+The experiments also exposed practical limits of the data: many videos were unavailable,
+
+hand detections were incomplete, and there are few clips per gloss. The nal test scores
+
+are reported for comparison, but further model choices should be made without using
+
+that test set.
+
+
+
+
+                                           13
+Bibliography
+
+[1] D. Li, C. Rodriguez, X. Yu, and H. Li, Word-level Deep Sign Language Recognition
+
+   from Video: A New Large-scale Dataset and Methods Comparison, in          Proceedings
+   of the IEEE Winter Conference on Applications of Computer Vision, 2020.
+[2] Google, MediaPipe Holistic, MediaPipe documentation. Available at https://ai.
+
+   google.dev/edge/mediapipe/solutions/vision/holistic_landmarker.
+
+[3] F. Pedregosa et al., Scikit-learn: Machine Learning in Python,   Journal of Machine
+   Learning Research, vol. 12, pp. 28252830, 2011.
+[4] A. Paszke et al., PyTorch: An Imperative Style, High-Performance Deep Learning
+
+   Library, in   Advances in Neural Information Processing Systems, 2019.
+
+
+
+
+                                           14
+Chapter 7
+
+Project File Workow
+
+The project les follow the order of the work: dene the data, extract landmarks, build
+
+features, compare models, and inspect errors. The main les for each stage are:
+
+
+1.   Dataset denition. The WLASL-100 metadata and the frozen signer-independent
+     assignments    are    stored    under     data/processed/WLASL100/.              The    split   le
+
+     split_v2.csv records each clip's gloss, signer, and train/validation/test assign-
+     ment.
+
+
+2.   Landmark inputs.               MediaPipe     arrays   are   kept    in   landmarks_repo/        and
+
+     landmarks_kaggle/. Each .npy le corresponds to one video. The EDA note-
+     book and landmarks_eda/ outputs summarize coverage, missingness, clip lengths,
+
+     and signer counts.
+
+
+3.   Preprocessing.         Notebook     05    calls   scripts/preprocess_landmarks.py.               It
+
+     normalizes    the   coordinates,   lls   only    short   gaps,   resamples   clips,   and   writes
+
+     preprocessed/sequences_v1.npz with the manifest and summary.
+
+4.   Feature experiments. The ablation scripts compare feature channels, PCA sizes,
+     and sequence lengths. They save fold-level results and the 64-frame classical feature
+
+     matrix under ablation_study/.
+
+
+5.   Model evaluation. Notebook 06 runs the classical grouped-CV comparison and nal
+     evaluation. Notebook 07 compares LSTM and GRU variants with grouped folds, then
+
+     evaluates the selected versions.        Each model has a results.csv in its folder under
+
+     out/; out/comparison.csv brings together the six classical models.
+
+6.   Error review and report gures. Notebook 08 summarizes validation errors. The
+     PCA plots and landmark overlay gure are stored in report/figures/ for inclusion
+
+     in this document.
+
+
+The notebooks are the entry points we use to follow the work, and the Python scripts
+
+contain the processing and training steps they run. Saved splits and result les make it
+
+possible to trace the reported numbers without rerunning video extraction.
+
+
+                                                   15
+Appendix A
+
+Reproducibility Notes
+
+We used Python 3.12 for this project. Landmark extraction used MediaPipe 0.10.14 and
+
+NumPy below version 2 to keep the Holistic API available. The feature and model note-
+
+books use the saved landmark arrays and split, so they can be rerun without processing
+
+the original videos again.
+
+The split is xed in data/processed/WLASL100/split_v2.csv. Model settings and
+scores are in the CSV les under out/, and the corresponding run logic is in scripts/.
+
+EDA and feature outputs are saved under data/processed/WLASL100/. We set the
+
+model seed to 42; the split conguration records the separate search used to select signer
+
+groups.
+
+To follow the analysis, start with notebook 01, then use 05 for preprocessing, 06 and
+
+07 for model comparisons, and 08 for validation errors. The acquisition and landmark-
+
+extraction notebooks document how we assembled the inputs.         The nal scripts reuse
+
+the selected settings and the same test split; the test results are for nal reporting, not
+
+another round of tuning.
+
+
+
+
+                                            16
+

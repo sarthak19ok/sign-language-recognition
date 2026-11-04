@@ -1,0 +1,102 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1.2}Problem statement}{1}{section.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1.3}Objectives}{1}{section.1.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1.4}Questions guiding the experiments}{2}{section.1.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1.5}Why signer independence matters}{2}{section.1.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1.6}Scope}{2}{section.1.6}\protected@file@percent }
+\citation{li2020wlasl}
+\citation{mediapipe_holistic}
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}Related Work}{3}{chapter.2}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Word-level sign recognition}{3}{section.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Pose-based representations}{3}{section.2.2}\protected@file@percent }
+\citation{sklearn}
+\citation{xgboost}
+\citation{pytorch}
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Classical and temporal classifiers}{4}{section.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2.4}Evaluation and signer leakage}{4}{section.2.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Data and Methodology}{5}{chapter.3}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Dataset and availability}{5}{section.3.1}\protected@file@percent }
+\newlabel{tab:data}{{3.1}{5}{Dataset and availability}{section.3.1}{}}
+\newlabel{tab:data@cref}{{[section][1][3]3.1}{[1][5][]5}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Available landmark clips used in the experiments.}}{5}{table.3.1}\protected@file@percent }
+\newlabel{tab:class-support}{{3.1}{6}{Dataset and availability}{table.3.1}{}}
+\newlabel{tab:class-support@cref}{{[section][1][3]3.1}{[1][6][]6}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.2}{\ignorespaces Variation in clip and signer support across the available data.}}{6}{table.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Signer-independent partitions}{6}{section.3.2}\protected@file@percent }
+\newlabel{tab:split}{{3.2}{6}{Signer-independent partitions}{section.3.2}{}}
+\newlabel{tab:split@cref}{{[section][2][3]3.2}{[1][6][]6}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.3}{\ignorespaces Frozen signer-independent split.}}{6}{table.3.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Landmark extraction and quality checks}{6}{section.3.3}\protected@file@percent }
+\newlabel{tab:missingness}{{3.3}{7}{Landmark extraction and quality checks}{section.3.3}{}}
+\newlabel{tab:missingness@cref}{{[section][3][3]3.3}{[1][7][]7}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.4}{\ignorespaces Median per-point hand missingness by landmark source.}}{7}{table.3.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Sample visual quality check of extracted pose and hand landmarks.}}{7}{figure.3.1}\protected@file@percent }
+\newlabel{fig:overlays}{{3.1}{7}{Sample visual quality check of extracted pose and hand landmarks}{figure.3.1}{}}
+\newlabel{fig:overlays@cref}{{[figure][1][3]3.1}{[1][7][]7}{}{}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Preprocessing and features}{7}{section.3.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}Exploratory data analysis}{9}{section.3.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Exploratory PCA view coloured by gloss class.}}{9}{figure.3.2}\protected@file@percent }
+\newlabel{fig:pca-gloss}{{3.2}{9}{Exploratory PCA view coloured by gloss class}{figure.3.2}{}}
+\newlabel{fig:pca-gloss@cref}{{[figure][2][3]3.2}{[1][9][]9}{}{}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Exploratory PCA view coloured by signer.}}{10}{figure.3.3}\protected@file@percent }
+\newlabel{fig:pca-signer}{{3.3}{10}{Exploratory PCA view coloured by signer}{figure.3.3}{}}
+\newlabel{fig:pca-signer@cref}{{[figure][3][3]3.3}{[1][9][]10}{}{}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.6}Model selection protocol}{10}{section.3.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.7}Evaluation measures}{11}{section.3.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.8}Compared models}{11}{section.3.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Experiments and Results}{12}{chapter.4}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Feature ablations}{12}{section.4.1}\protected@file@percent }
+\newlabel{tab:ablation}{{4.1}{13}{Feature ablations}{section.4.1}{}}
+\newlabel{tab:ablation@cref}{{[section][1][4]4.1}{[1][12][]13}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Selected feature and temporal-length ablations (mean signer-grouped CV accuracy).}}{13}{table.4.1}\protected@file@percent }
+\newlabel{tab:pca}{{4.1}{13}{Feature ablations}{table.4.1}{}}
+\newlabel{tab:pca@cref}{{[section][1][4]4.1}{[1][13][]13}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces PCA component sweep with logistic regression on flattened hand and angle sequences.}}{13}{table.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Classical model comparison}{13}{section.4.2}\protected@file@percent }
+\newlabel{tab:classical}{{4.2}{14}{Classical model comparison}{section.4.2}{}}
+\newlabel{tab:classical@cref}{{[section][2][4]4.2}{[1][13][]14}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.3}{\ignorespaces Classical model performance. Cross-validation is three-fold and signer-grouped.}}{14}{table.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Selected classical settings}{14}{subsection.4.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}LSTM and GRU comparison}{14}{section.4.3}\protected@file@percent }
+\newlabel{tab:temporal}{{4.3}{15}{LSTM and GRU comparison}{section.4.3}{}}
+\newlabel{tab:temporal@cref}{{[section][3][4]4.3}{[1][14][]15}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.4}{\ignorespaces Temporal model performance using the selected hand-angle-plus-mask representation.}}{15}{table.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}Random-split diagnostic}{15}{section.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.5}Error analysis}{15}{section.4.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Discussion}{17}{chapter.5}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Main findings}{17}{section.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Limitations}{17}{section.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Validity and leakage controls}{18}{section.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Conclusion}{19}{chapter.6}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {6.1}Conclusion}{19}{section.6.1}\protected@file@percent }
+\bibcite{li2020wlasl}{1}
+\bibcite{mediapipe_holistic}{2}
+\bibcite{sklearn}{3}
+\bibcite{pytorch}{4}
+\bibcite{xgboost}{5}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{20}{chapter*.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{Project File Workflow}{21}{chapter*.6}\protected@file@percent }
+\newlabel{tab:file-flow}{{6.1}{22}{Project File Workflow}{Item.11}{}}
+\newlabel{tab:file-flow@cref}{{[section][1][6]6.1}{[1][21][]22}{}{}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {6.1}{\ignorespaces How the main project files connect from data preparation to results.}}{22}{table.6.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Reproducibility Notes}{23}{appendix.A}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\gdef \@abspage@last{30}
