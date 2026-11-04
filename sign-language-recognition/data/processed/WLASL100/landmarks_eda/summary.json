@@ -1,0 +1,17 @@
+{
+  "videos": 1466,
+  "classes": 100,
+  "signers": 73,
+  "source_counts": {
+    "kaggle": 1013,
+    "repo": 453
+  },
+  "split_counts": {
+    "train": 868,
+    "test": 304,
+    "val": 294
+  },
+  "array_shape": "(T,225), float32 expected",
+  "median_frames": 70.0,
+  "median_missing_pct": 31.58333333333333
+}

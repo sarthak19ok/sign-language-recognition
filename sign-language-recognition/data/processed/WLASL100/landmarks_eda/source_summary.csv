@@ -1,0 +1,3 @@
+landmark_source,videos,median_frames,median_pose_missing_pct,median_left_hand_missing_pct,median_right_hand_missing_pct
+kaggle,1013,65.0,0.0,67.9245283018868,41.81818181818182
+repo,453,77.0,0.0,80.59701492537313,38.144329896907216
