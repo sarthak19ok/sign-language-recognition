@@ -1,0 +1,50 @@
+{
+  "dataset": "WLASL",
+  "subset": "WLASL-100",
+  "selection_rule": "first 100 gloss entries in official WLASL_v0.3.json",
+  "number_of_classes": 100,
+  "number_of_instances": 2038,
+  "number_of_signers": 97,
+  "split_method": "GroupShuffleSplit",
+  "group_column": "signer_id",
+  "random_seed": 165,
+  "seed_search": {
+    "seeds_evaluated": 2000,
+    "test_size": 0.2,
+    "validation_size_within_train_val": 0.1875,
+    "validation_test_class_minimum": 2,
+    "selection_score": [
+      "validation_classes_present",
+      "test_classes_present",
+      "validation_classes_with_at_least_2_instances",
+      "test_classes_with_at_least_2_instances",
+      "training_classes_present"
+    ]
+  },
+  "signer_independent": true,
+  "partitions": {
+    "train": {
+      "instances": 1003,
+      "signers": 62,
+      "classes": 100,
+      "instance_fraction": 0.4921491658488714
+    },
+    "validation": {
+      "instances": 424,
+      "signers": 15,
+      "classes": 100,
+      "instance_fraction": 0.20804710500490678
+    },
+    "test": {
+      "instances": 611,
+      "signers": 20,
+      "classes": 100,
+      "instance_fraction": 0.2998037291462218
+    }
+  },
+  "minimum_instances_per_class": {
+    "train": 5,
+    "validation": 2,
+    "test": 2
+  }
+}

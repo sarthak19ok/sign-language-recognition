@@ -1,0 +1,39 @@
+{
+  "subset": "WLASL-100",
+  "metadata_classes": 100,
+  "metadata_instances": 2038,
+  "youtube_instances": 685,
+  "unique_youtube_sources": 572,
+  "validated_youtube_sources": 340,
+  "non_youtube_instances": 1353,
+  "validated_non_youtube_instances": 4,
+  "validated_final_instance_clips": 0,
+  "classes_with_validated_clips": 0,
+  "split_summary": [
+    {
+      "split": "test",
+      "metadata_instances": 611,
+      "validated_clips": 0,
+      "classes_in_metadata": 100,
+      "classes_with_valid_clips": 0,
+      "coverage_pct": 0.0
+    },
+    {
+      "split": "train",
+      "metadata_instances": 1003,
+      "validated_clips": 0,
+      "classes_in_metadata": 100,
+      "classes_with_valid_clips": 0,
+      "coverage_pct": 0.0
+    },
+    {
+      "split": "val",
+      "metadata_instances": 424,
+      "validated_clips": 0,
+      "classes_in_metadata": 100,
+      "classes_with_valid_clips": 0,
+      "coverage_pct": 0.0
+    }
+  ],
+  "generated_utc": "2026-11-03T11:49:34.124630+00:00"
+}

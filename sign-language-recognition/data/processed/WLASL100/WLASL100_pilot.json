@@ -1,0 +1,412 @@
+[
+  {
+    "gloss": "book",
+    "instances": [
+      {
+        "bbox": [
+          385,
+          37,
+          885,
+          720
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 0,
+        "signer_id": 118,
+        "source": "aslbrick",
+        "split": "train",
+        "url": "http://aslbricks.org/New/ASL-Videos/book.mp4",
+        "variation_id": 0,
+        "video_id": "69241"
+      },
+      {
+        "bbox": [
+          190,
+          25,
+          489,
+          370
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 1,
+        "signer_id": 90,
+        "source": "aslsignbank",
+        "split": "train",
+        "url": "https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOOK-418.mp4",
+        "variation_id": 0,
+        "video_id": "65225"
+      }
+    ]
+  },
+  {
+    "gloss": "drink",
+    "instances": [
+      {
+        "bbox": [
+          551,
+          68,
+          1350,
+          1080
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 0,
+        "signer_id": 115,
+        "source": "aslbrick",
+        "split": "val",
+        "url": "http://aslbricks.org/New/ASL-Videos/drink.mp4",
+        "variation_id": 0,
+        "video_id": "69302"
+      },
+      {
+        "bbox": [
+          153,
+          11,
+          488,
+          370
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 1,
+        "signer_id": 94,
+        "source": "aslsignbank",
+        "split": "train",
+        "url": "https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DR/DRINK-119.mp4",
+        "variation_id": 0,
+        "video_id": "65539"
+      }
+    ]
+  },
+  {
+    "gloss": "computer",
+    "instances": [
+      {
+        "bbox": [
+          0,
+          0,
+          360,
+          240
+        ],
+        "fps": 25,
+        "frame_end": 5181,
+        "frame_start": 5122,
+        "instance_id": 0,
+        "signer_id": 9,
+        "source": "asl5200",
+        "split": "test",
+        "url": "https://www.youtube.com/watch?v=PPmQd2zWdP0",
+        "variation_id": 0,
+        "video_id": "12306"
+      },
+      {
+        "bbox": [
+          111,
+          0,
+          1198,
+          720
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 1,
+        "signer_id": 109,
+        "source": "valencia-asl",
+        "split": "train",
+        "url": "https://www.youtube.com/watch?v=H-tAzh-nuV8",
+        "variation_id": 0,
+        "video_id": "68028"
+      }
+    ]
+  },
+  {
+    "gloss": "before",
+    "instances": [
+      {
+        "bbox": [
+          0,
+          0,
+          360,
+          240
+        ],
+        "fps": 25,
+        "frame_end": 1779,
+        "frame_start": 1733,
+        "instance_id": 0,
+        "signer_id": 9,
+        "source": "asl5200",
+        "split": "train",
+        "url": "https://www.youtube.com/watch?v=pDqITge_TGs",
+        "variation_id": 0,
+        "video_id": "05724"
+      },
+      {
+        "bbox": [
+          185,
+          50,
+          419,
+          360
+        ],
+        "fps": 25,
+        "frame_end": 4873,
+        "frame_start": 4778,
+        "instance_id": 1,
+        "signer_id": 121,
+        "source": "northtexas",
+        "split": "train",
+        "url": "https://www.youtube.com/watch?v=bq-HmgjGzmw",
+        "variation_id": 0,
+        "video_id": "70348"
+      }
+    ]
+  },
+  {
+    "gloss": "chair",
+    "instances": [
+      {
+        "bbox": [
+          0,
+          0,
+          360,
+          240
+        ],
+        "fps": 25,
+        "frame_end": 1889,
+        "frame_start": 1830,
+        "instance_id": 0,
+        "signer_id": 9,
+        "source": "asl5200",
+        "split": "test",
+        "url": "https://www.youtube.com/watch?v=PPmQd2zWdP0",
+        "variation_id": 0,
+        "video_id": "09847"
+      },
+      {
+        "bbox": [
+          127,
+          41,
+          449,
+          360
+        ],
+        "fps": 25,
+        "frame_end": 2231,
+        "frame_start": 2101,
+        "instance_id": 1,
+        "signer_id": 121,
+        "source": "northtexas",
+        "split": "train",
+        "url": "https://www.youtube.com/watch?v=4Nh1iFv2BMc",
+        "variation_id": 0,
+        "video_id": "70230"
+      }
+    ]
+  },
+  {
+    "gloss": "go",
+    "instances": [
+      {
+        "bbox": [
+          0,
+          0,
+          360,
+          240
+        ],
+        "fps": 25,
+        "frame_end": 926,
+        "frame_start": 887,
+        "instance_id": 0,
+        "signer_id": 9,
+        "source": "asl5200",
+        "split": "test",
+        "url": "https://www.youtube.com/watch?v=YdHKN_wHZqo",
+        "variation_id": 0,
+        "video_id": "24857"
+      },
+      {
+        "bbox": [
+          268,
+          38,
+          898,
+          720
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 1,
+        "signer_id": 118,
+        "source": "aslbrick",
+        "split": "val",
+        "url": "http://aslbricks.org/New/ASL-Videos/go.mp4",
+        "variation_id": 0,
+        "video_id": "69345"
+      }
+    ]
+  },
+  {
+    "gloss": "clothes",
+    "instances": [
+      {
+        "bbox": [
+          0,
+          0,
+          360,
+          240
+        ],
+        "fps": 25,
+        "frame_end": 3997,
+        "frame_start": 3938,
+        "instance_id": 0,
+        "signer_id": 9,
+        "source": "asl5200",
+        "split": "test",
+        "url": "https://www.youtube.com/watch?v=PPmQd2zWdP0",
+        "variation_id": 0,
+        "video_id": "11305"
+      },
+      {
+        "bbox": [
+          348,
+          11,
+          932,
+          720
+        ],
+        "fps": 25,
+        "frame_end": 51,
+        "frame_start": 1,
+        "instance_id": 1,
+        "signer_id": 115,
+        "source": "lillybauer",
+        "split": "train",
+        "url": "https://www.youtube.com/watch?v=RVnoNW53qFU",
+        "variation_id": 0,
+        "video_id": "68870"
+      }
+    ]
+  },
+  {
+    "gloss": "who",
+    "instances": [
+      {
+        "bbox": [
+          0,
+          0,
+          360,
+          240
+        ],
+        "fps": 25,
+        "frame_end": 2235,
+        "frame_start": 2159,
+        "instance_id": 0,
+        "signer_id": 9,
+        "source": "asl5200",
+        "split": "test",
+        "url": "https://www.youtube.com/watch?v=A5dihMAjeTE",
+        "variation_id": 0,
+        "video_id": "63219"
+      },
+      {
+        "bbox": [
+          381,
+          45,
+          868,
+          720
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 1,
+        "signer_id": 118,
+        "source": "aslbrick",
+        "split": "train",
+        "url": "http://aslbricks.org/New/ASL-Videos/who.mp4",
+        "variation_id": 0,
+        "video_id": "69534"
+      }
+    ]
+  },
+  {
+    "gloss": "candy",
+    "instances": [
+      {
+        "bbox": [
+          0,
+          0,
+          360,
+          240
+        ],
+        "fps": 25,
+        "frame_end": 782,
+        "frame_start": 730,
+        "instance_id": 0,
+        "signer_id": 9,
+        "source": "asl5200",
+        "split": "train",
+        "url": "https://www.youtube.com/watch?v=PPmQd2zWdP0",
+        "variation_id": 0,
+        "video_id": "08909"
+      },
+      {
+        "bbox": [
+          114,
+          0,
+          1155,
+          720
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 1,
+        "signer_id": 109,
+        "source": "valencia-asl",
+        "split": "train",
+        "url": "https://www.youtube.com/watch?v=LMQ4kaHPS48",
+        "variation_id": 1,
+        "video_id": "68018"
+      }
+    ]
+  },
+  {
+    "gloss": "cousin",
+    "instances": [
+      {
+        "bbox": [
+          134,
+          17,
+          491,
+          370
+        ],
+        "fps": 25,
+        "frame_end": -1,
+        "frame_start": 1,
+        "instance_id": 0,
+        "signer_id": 102,
+        "source": "aslsignbank",
+        "split": "test",
+        "url": "https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUSIN-1171.mp4",
+        "variation_id": 0,
+        "video_id": "65415"
+      },
+      {
+        "bbox": [
+          176,
+          46,
+          440,
+          360
+        ],
+        "fps": 25,
+        "frame_end": 1262,
+        "frame_start": 1161,
+        "instance_id": 1,
+        "signer_id": 121,
+        "source": "northtexas",
+        "split": "train",
+        "url": "https://www.youtube.com/watch?v=bq-HmgjGzmw",
+        "variation_id": 0,
+        "video_id": "70332"
+      }
+    ]
+  }
+]

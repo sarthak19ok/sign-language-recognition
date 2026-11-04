@@ -1,0 +1,176 @@
+INFO:root:gloss: book, video: 69241.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/book.mp4
+INFO:root:gloss: book, video: 65225.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOOK-418.mp4
+ERROR:root:Unsuccessful downloading - video 65225
+INFO:root:gloss: drink, video: 69302.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/drink.mp4
+INFO:root:gloss: drink, video: 65539.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DR/DRINK-119.mp4
+ERROR:root:Unsuccessful downloading - video 65539
+INFO:root:gloss: computer, video: 12306.
+WARNING:root:Skipping YouTube video 12306
+INFO:root:gloss: computer, video: 68028.
+WARNING:root:Skipping YouTube video 68028
+INFO:root:gloss: before, video: 05724.
+WARNING:root:Skipping YouTube video 05724
+INFO:root:gloss: before, video: 70348.
+WARNING:root:Skipping YouTube video 70348
+INFO:root:gloss: chair, video: 09847.
+WARNING:root:Skipping YouTube video 09847
+INFO:root:gloss: chair, video: 70230.
+WARNING:root:Skipping YouTube video 70230
+INFO:root:gloss: go, video: 24857.
+WARNING:root:Skipping YouTube video 24857
+INFO:root:gloss: go, video: 69345.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/go.mp4
+INFO:root:gloss: clothes, video: 11305.
+WARNING:root:Skipping YouTube video 11305
+INFO:root:gloss: clothes, video: 68870.
+WARNING:root:Skipping YouTube video 68870
+INFO:root:gloss: who, video: 63219.
+WARNING:root:Skipping YouTube video 63219
+INFO:root:gloss: who, video: 69534.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/who.mp4
+ERROR:root:Unsuccessful downloading - video 69534
+INFO:root:gloss: candy, video: 08909.
+WARNING:root:Skipping YouTube video 08909
+INFO:root:gloss: candy, video: 68018.
+WARNING:root:Skipping YouTube video 68018
+INFO:root:gloss: cousin, video: 65415.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUSIN-1171.mp4
+ERROR:root:Unsuccessful downloading - video 65415
+INFO:root:gloss: cousin, video: 70332.
+WARNING:root:Skipping YouTube video 70332
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=H-tAzh-nuV8 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=H-tAzh-nuV8 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=H-tAzh-nuV8 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pDqITge_TGs HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pDqITge_TGs HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pDqITge_TGs HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bq-HmgjGzmw HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bq-HmgjGzmw HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bq-HmgjGzmw HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4Nh1iFv2BMc HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4Nh1iFv2BMc HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4Nh1iFv2BMc HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=YdHKN_wHZqo HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=YdHKN_wHZqo HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=YdHKN_wHZqo HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RVnoNW53qFU HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RVnoNW53qFU HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RVnoNW53qFU HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=A5dihMAjeTE HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=A5dihMAjeTE HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=A5dihMAjeTE HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): aslbricks.org:80
+DEBUG:urllib3.connectionpool:http://aslbricks.org:80 "GET /New/ASL-Videos/who.mp4 HTTP/1.1" 200 2660430
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PPmQd2zWdP0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=LMQ4kaHPS48 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=LMQ4kaHPS48 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=LMQ4kaHPS48 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): aslsignbank.haskins.yale.edu:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bq-HmgjGzmw HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bq-HmgjGzmw HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bq-HmgjGzmw HTTP/1.1" 200 None
+INFO:root:gloss: book, video: 69241.
+INFO:root:69241 exists at /Users/sahilchauhan/sign-language-recognition/data/raw/WLASL100_pilot/69241.mp4
+INFO:root:gloss: book, video: 65225.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOOK-418.mp4
+ERROR:root:Unsuccessful downloading - video 65225
+INFO:root:gloss: drink, video: 69302.
+INFO:root:69302 exists at /Users/sahilchauhan/sign-language-recognition/data/raw/WLASL100_pilot/69302.mp4
+INFO:root:gloss: drink, video: 65539.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DR/DRINK-119.mp4
+ERROR:root:Unsuccessful downloading - video 65539
+INFO:root:gloss: computer, video: 12306.
+WARNING:root:Skipping YouTube video 12306
+INFO:root:gloss: computer, video: 68028.
+WARNING:root:Skipping YouTube video 68028
+INFO:root:gloss: before, video: 05724.
+WARNING:root:Skipping YouTube video 05724
+INFO:root:gloss: before, video: 70348.
+WARNING:root:Skipping YouTube video 70348
+INFO:root:gloss: chair, video: 09847.
+WARNING:root:Skipping YouTube video 09847
+INFO:root:gloss: chair, video: 70230.
+WARNING:root:Skipping YouTube video 70230
+INFO:root:gloss: go, video: 24857.
+WARNING:root:Skipping YouTube video 24857
+INFO:root:gloss: go, video: 69345.
+INFO:root:69345 exists at /Users/sahilchauhan/sign-language-recognition/data/raw/WLASL100_pilot/69345.mp4
+INFO:root:gloss: clothes, video: 11305.
+WARNING:root:Skipping YouTube video 11305
+INFO:root:gloss: clothes, video: 68870.
+WARNING:root:Skipping YouTube video 68870
+INFO:root:gloss: who, video: 63219.
+WARNING:root:Skipping YouTube video 63219
+INFO:root:gloss: who, video: 69534.
+INFO:root:69534 exists at /Users/sahilchauhan/sign-language-recognition/data/raw/WLASL100_pilot/69534.mp4
+INFO:root:gloss: candy, video: 08909.
+WARNING:root:Skipping YouTube video 08909
+INFO:root:gloss: candy, video: 68018.
+WARNING:root:Skipping YouTube video 68018
+INFO:root:gloss: cousin, video: 65415.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUSIN-1171.mp4
+ERROR:root:Unsuccessful downloading - video 65415
+INFO:root:gloss: cousin, video: 70332.
+WARNING:root:Skipping YouTube video 70332

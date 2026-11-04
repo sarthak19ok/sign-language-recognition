@@ -1,0 +1,18 @@
+{
+    "dataset": "WLASL",
+    "subset": "WLASL-100",
+    "classes": 100,
+    "signers": 97,
+    "random_seed": 165,
+    "split_method": "GroupShuffleSplit",
+    "train_instances": 1003,
+    "validation_instances": 424,
+    "test_instances": 611,
+    "train_signers": 62,
+    "validation_signers": 15,
+    "test_signers": 20,
+    "minimum_train_per_class": 5,
+    "minimum_validation_per_class": 2,
+    "minimum_test_per_class": 2,
+    "signer_independent": true
+}

@@ -1,0 +1,4 @@
+split,metadata_instances,validated_clips,classes_in_metadata,classes_with_valid_clips,coverage_pct
+test,611,0,100,0,0.0
+train,1003,0,100,0,0.0
+val,424,0,100,0,0.0

@@ -1,0 +1,2672 @@
+{
+  "VwejDy96MzM": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:50:44.092811+00:00"
+  },
+  "aGzNpjV6-0I": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:50:53.429636+00:00"
+  },
+  "vzUKt2pjkRI": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:51:01.667680+00:00"
+  },
+  "25ymRY7hbjs": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:51:05.953389+00:00"
+  },
+  "4zPifaOHJIE": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:51:15.312871+00:00"
+  },
+  "EhkIoTNxwGE": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:51:22.612880+00:00"
+  },
+  "Eo-vEE1gFxM": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:51:35.186239+00:00"
+  },
+  "EtW1-NdM5qI": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:51:47.158719+00:00"
+  },
+  "F5Wef1_PtLk": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:51:53.889919+00:00"
+  },
+  "vh7DN3usJgc": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:52:03.728168+00:00"
+  },
+  "ZEyH-t5ALCs": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:52:13.941524+00:00"
+  },
+  "2oaCeSdHG-A": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:52:20.283119+00:00"
+  },
+  "zNSQm23fGzI": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:52:28.127395+00:00"
+  },
+  "BRO-oYGV224": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:52:31.282603+00:00"
+  },
+  "WujjGy4syeI": {
+    "status": "downloaded",
+    "instances": 2,
+    "timestamp": "2026-11-03T05:52:38.830740+00:00"
+  },
+  "f8MfjdWKh24": {
+    "status": "downloaded",
+    "instances": 1,
+    "timestamp": "2026-11-03T05:52:46.317750+00:00"
+  },
+  "fLkoJvqUUi8": {
+    "status": "downloaded",
+    "instances": 1,
+    "timestamp": "2026-11-03T05:52:56.200567+00:00"
+  },
+  "fY11M3Dxxx0": {
+    "status": "downloaded",
+    "instances": 1,
+    "timestamp": "2026-11-03T05:53:04.532303+00:00"
+  },
+  "f_l5OkjlEpw": {
+    "status": "failed: ERROR: [youtube] f_l5OkjlEpw: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/",
+    "instances": 1,
+    "timestamp": "2026-11-03T05:53:05.391668+00:00"
+  },
+  "fE1BI5KxKJM": {
+    "status": "downloaded",
+    "instances": 1,
+    "timestamp": "2026-11-03T05:53:14.282063+00:00"
+  },
+  "--Xi-n0DgBU": {
+    "status": "failed: ERROR: [youtube] --Xi-n0DgBU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:08.679338+00:00"
+  },
+  "kgmz82HWI-I": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:16.897580+00:00"
+  },
+  "gHyJ2zdCVHw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:25.091326+00:00"
+  },
+  "gDkZ2Zn3Sjg": {
+    "status": "failed: ERROR: [youtube] gDkZ2Zn3Sjg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:26.169765+00:00"
+  },
+  "g67ZXnEx9Z4": {
+    "status": "failed: ERROR: [youtube] g67ZXnEx9Z4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:26.932266+00:00"
+  },
+  "g-w38Q0QrWE": {
+    "status": "failed: ERROR: [youtube] g-w38Q0QrWE: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:27.907762+00:00"
+  },
+  "fBVbr5ci0EQ": {
+    "status": "failed: ERROR: [youtube] fBVbr5ci0EQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:28.659654+00:00"
+  },
+  "f85vUmJJP8I": {
+    "status": "failed: ERROR: [youtube] f85vUmJJP8I: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:30.107422+00:00"
+  },
+  "edaot0Pm6NI": {
+    "status": "failed: ERROR: [youtube] edaot0Pm6NI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:30.870667+00:00"
+  },
+  "eWiJm1rz0Fk": {
+    "status": "failed: ERROR: [youtube] eWiJm1rz0Fk: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:31.644563+00:00"
+  },
+  "eTmzHLtBOnU": {
+    "status": "failed: ERROR: [youtube] eTmzHLtBOnU: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:32.432324+00:00"
+  },
+  "eQlq7VX7VSg": {
+    "status": "failed: ERROR: [youtube] eQlq7VX7VSg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:33.361513+00:00"
+  },
+  "dsuL3WA2Krw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:38.604569+00:00"
+  },
+  "dsZQRTrQjiE": {
+    "status": "failed: ERROR: [youtube] dsZQRTrQjiE: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:39.259515+00:00"
+  },
+  "dqRCKjpXV4Q": {
+    "status": "failed: ERROR: [youtube] dqRCKjpXV4Q: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:40.250235+00:00"
+  },
+  "dnDu1DxXWo4": {
+    "status": "failed: ERROR: [youtube] dnDu1DxXWo4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:41.109232+00:00"
+  },
+  "djZwwts-OiA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:49.106606+00:00"
+  },
+  "dXz1i9gTR4w": {
+    "status": "failed: ERROR: [youtube] dXz1i9gTR4w: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:49.870674+00:00"
+  },
+  "cx14s_gt60I": {
+    "status": "failed: ERROR: [youtube] cx14s_gt60I: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:24:50.956978+00:00"
+  },
+  "cujhpwWi1yY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:00.948602+00:00"
+  },
+  "co7zdtkJW1E": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:04.396279+00:00"
+  },
+  "cnX45VWbjmc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:13.253363+00:00"
+  },
+  "ckcIj13POaE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:21.944505+00:00"
+  },
+  "catBjk1p2bk": {
+    "status": "failed: ERROR: [youtube] catBjk1p2bk: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:23.793104+00:00"
+  },
+  "cIC4tYLHaME": {
+    "status": "failed: ERROR: [youtube] cIC4tYLHaME: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:24.608216+00:00"
+  },
+  "cFlUlLhRbTE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:29.304726+00:00"
+  },
+  "cEuA1gLPbIY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:39.202243+00:00"
+  },
+  "cEbPqZiaAqQ": {
+    "status": "failed: ERROR: [youtube] cEbPqZiaAqQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:40.535595+00:00"
+  },
+  "c17A0edBIaA": {
+    "status": "failed: ERROR: [youtube] c17A0edBIaA: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:41.436075+00:00"
+  },
+  "bzeoojCEbX0": {
+    "status": "failed: ERROR: [youtube] bzeoojCEbX0: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:42.501656+00:00"
+  },
+  "bul0cjvDEEE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:51.264891+00:00"
+  },
+  "giIzGcYftow": {
+    "status": "failed: ERROR: [youtube] giIzGcYftow: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:25:52.295589+00:00"
+  },
+  "gmBUPfuUbzc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:01.295685+00:00"
+  },
+  "gpNDuOwyW7Q": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:06.716805+00:00"
+  },
+  "ig7SKr3tvWc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:10.466805+00:00"
+  },
+  "kddq0oAgBS0": {
+    "status": "failed: ERROR: [youtube] kddq0oAgBS0: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:12.263333+00:00"
+  },
+  "kO_5FgRTVCs": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:21.196001+00:00"
+  },
+  "kMcaG9BjXXg": {
+    "status": "failed: ERROR: [youtube] kMcaG9BjXXg: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:21.970605+00:00"
+  },
+  "kCT-we5dguI": {
+    "status": "failed: ERROR: [youtube] kCT-we5dguI: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:24.042585+00:00"
+  },
+  "k6cNmM9WgUs": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:32.174651+00:00"
+  },
+  "k3c4uVHBFR4": {
+    "status": "failed: ERROR: [youtube] k3c4uVHBFR4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:33.766891+00:00"
+  },
+  "jw_R6ttIrgg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:42.456896+00:00"
+  },
+  "juHCHcRrGew": {
+    "status": "failed: ERROR: [youtube] juHCHcRrGew: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:43.258196+00:00"
+  },
+  "jknOnIhAbNo": {
+    "status": "failed: ERROR: [youtube] jknOnIhAbNo: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:44.521241+00:00"
+  },
+  "jVqjCsYCoMM": {
+    "status": "failed: ERROR: [youtube] jVqjCsYCoMM: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:45.347583+00:00"
+  },
+  "jGsh6zd3eUQ": {
+    "status": "failed: ERROR: [youtube] jGsh6zd3eUQ: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:46.109358+00:00"
+  },
+  "jC6sHiZBEyI": {
+    "status": "failed: ERROR: [youtube] jC6sHiZBEyI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:47.306002+00:00"
+  },
+  "j2hvnGiBrRI": {
+    "status": "failed: ERROR: [youtube] j2hvnGiBrRI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:48.077049+00:00"
+  },
+  "ieLzL1Sl6SU": {
+    "status": "failed: ERROR: [youtube] ieLzL1Sl6SU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:49.276003+00:00"
+  },
+  "hIKTWc-9yKg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:26:58.210255+00:00"
+  },
+  "iZ713O5fNos": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:06.049093+00:00"
+  },
+  "iYwt-z7Roz4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:09.712688+00:00"
+  },
+  "iVgjg202V6M": {
+    "status": "failed: ERROR: [youtube] iVgjg202V6M: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:10.732220+00:00"
+  },
+  "iIr9H2LXllA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:18.604360+00:00"
+  },
+  "iERRGfH_giQ": {
+    "status": "failed: ERROR: [youtube] iERRGfH_giQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:19.640285+00:00"
+  },
+  "i5qAkbXqz9Y": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:28.083290+00:00"
+  },
+  "i47aN_PUDvk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:31.714782+00:00"
+  },
+  "i14EM0ZbtUY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:41.035590+00:00"
+  },
+  "i0opsQ2zB1Q": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:50.111368+00:00"
+  },
+  "hlVM_zS_dzw": {
+    "status": "failed: ERROR: [youtube] hlVM_zS_dzw: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:51.261992+00:00"
+  },
+  "hhgODkjRmcg": {
+    "status": "failed: ERROR: [youtube] hhgODkjRmcg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:27:51.956177+00:00"
+  },
+  "hMTxTnXCzOo": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:00.735292+00:00"
+  },
+  "hIPRC-_00vs": {
+    "status": "failed: ERROR: [youtube] hIPRC-_00vs: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:01.504417+00:00"
+  },
+  "bmc1BJWo_Pw": {
+    "status": "failed: ERROR: [youtube] bmc1BJWo_Pw: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:02.519079+00:00"
+  },
+  "bjXPOO_DUMw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:10.483264+00:00"
+  },
+  "bbunI-2KVKo": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:19.651205+00:00"
+  },
+  "X4003aEoiWo": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:30.394282+00:00"
+  },
+  "Xy0FCuz1KHw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:40.446871+00:00"
+  },
+  "Xx8ZjswBRLY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:44.047161+00:00"
+  },
+  "XtP6_KGsQwE": {
+    "status": "failed: ERROR: [youtube] XtP6_KGsQwE: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:44.870411+00:00"
+  },
+  "Xmrvvk8l3_w": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:48.781224+00:00"
+  },
+  "Xl2VNuFGexI": {
+    "status": "failed: ERROR: [youtube] Xl2VNuFGexI: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:49.641220+00:00"
+  },
+  "XjWSfh50kAU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:57.373719+00:00"
+  },
+  "Xi6L8dzG8YQ": {
+    "status": "failed: ERROR: [youtube] Xi6L8dzG8YQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:28:58.252208+00:00"
+  },
+  "XdA0TlfPB48": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:01.921531+00:00"
+  },
+  "XYWN81jAkgY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:06.035610+00:00"
+  },
+  "XO9Lq5Gyuaw": {
+    "status": "failed: ERROR: [youtube] XO9Lq5Gyuaw: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:06.850789+00:00"
+  },
+  "XKsE3bqirCc": {
+    "status": "failed: ERROR: [youtube] XKsE3bqirCc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:07.635649+00:00"
+  },
+  "XIZ2DrdEU3k": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:11.012447+00:00"
+  },
+  "X9k65VXITzY": {
+    "status": "failed: ERROR: [youtube] X9k65VXITzY: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:11.716199+00:00"
+  },
+  "WuwIz-vDMUc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:15.309668+00:00"
+  },
+  "YEFd7zsUNXU": {
+    "status": "failed: ERROR: [youtube] YEFd7zsUNXU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:16.072458+00:00"
+  },
+  "Wny0hRLOETg": {
+    "status": "failed: ERROR: [youtube] Wny0hRLOETg: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:17.245423+00:00"
+  },
+  "WXDexpGu-zU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:20.974095+00:00"
+  },
+  "W4FXyEWBu4I": {
+    "status": "failed: ERROR: [youtube] W4FXyEWBu4I: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:21.677152+00:00"
+  },
+  "VSBIqNFEQxI": {
+    "status": "failed: ERROR: [youtube] VSBIqNFEQxI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:22.377002+00:00"
+  },
+  "VQMheRBg2Mw": {
+    "status": "failed: ERROR: [youtube] VQMheRBg2Mw: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:23.186559+00:00"
+  },
+  "VPeBrHewtSY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:26.492575+00:00"
+  },
+  "VO9nCXjgMW4": {
+    "status": "failed: ERROR: [youtube] VO9nCXjgMW4: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:27.630444+00:00"
+  },
+  "V5I4eIMatII": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:36.865083+00:00"
+  },
+  "V3hT7-PIJz4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:44.306043+00:00"
+  },
+  "Uo_AUbP0O9g": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:54.040325+00:00"
+  },
+  "Ui8rn2gM1ZE": {
+    "status": "failed: ERROR: [youtube] Ui8rn2gM1ZE: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:29:54.803702+00:00"
+  },
+  "Uda6XJH18yw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:03.297770+00:00"
+  },
+  "Uch6xFIQ3X0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:12.611756+00:00"
+  },
+  "Y8QX1lAPwOs": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:20.004079+00:00"
+  },
+  "YSTnrscx1UY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:29.865491+00:00"
+  },
+  "ba87IfnWL9s": {
+    "status": "failed: ERROR: [youtube] ba87IfnWL9s: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:30.646871+00:00"
+  },
+  "_7B0lz1PMoc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:38.419692+00:00"
+  },
+  "b_4KkOWYXIU": {
+    "status": "failed: ERROR: [youtube] b_4KkOWYXIU: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:40.658279+00:00"
+  },
+  "awmySeWaTkk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:49.039213+00:00"
+  },
+  "avbqdo5HoQc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:30:59.063402+00:00"
+  },
+  "atyYSgDudAU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:07.936947+00:00"
+  },
+  "aciHfU1IrCc": {
+    "status": "failed: ERROR: [youtube] aciHfU1IrCc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:08.650125+00:00"
+  },
+  "aYMV4_YuPi8": {
+    "status": "failed: ERROR: [youtube] aYMV4_YuPi8: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:09.566145+00:00"
+  },
+  "aSvUHxoby4U": {
+    "status": "failed: ERROR: [youtube] aSvUHxoby4U: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:10.492371+00:00"
+  },
+  "aNilWTBIl0g": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:19.458281+00:00"
+  },
+  "aGtIHKEdCds": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:22.650408+00:00"
+  },
+  "a0robonALIk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:32.290956+00:00"
+  },
+  "_wQEymilNt4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:37.594856+00:00"
+  },
+  "_jv2aC-37vQ": {
+    "status": "failed: ERROR: [youtube] _jv2aC-37vQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:38.507841+00:00"
+  },
+  "_V31e361KV8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:47.365309+00:00"
+  },
+  "_41TQ39vHMA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:50.326808+00:00"
+  },
+  "YZyaVHlqsvY": {
+    "status": "failed: ERROR: [youtube] YZyaVHlqsvY: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:51.139357+00:00"
+  },
+  "_1MKB3Avehs": {
+    "status": "failed: ERROR: [youtube] _1MKB3Avehs: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:52.082387+00:00"
+  },
+  "ZyL9f_qoGug": {
+    "status": "failed: ERROR: [youtube] ZyL9f_qoGug: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:31:52.850931+00:00"
+  },
+  "ZyH7kuEa18Q": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:01.259248+00:00"
+  },
+  "ZxOqr6aCVLc": {
+    "status": "failed: ERROR: [youtube] ZxOqr6aCVLc: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:01.902284+00:00"
+  },
+  "ZrdOYM36B9I": {
+    "status": "failed: ERROR: Unable to rename file: [Errno 2] No such file or directory: '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/ZrdOYM36B9I.f137.mp4.part' -> '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/ZrdOYM36B",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:10.897762+00:00"
+  },
+  "ZpxhfHSHi7Q": {
+    "status": "failed: ERROR: Unable to rename file: [Errno 2] No such file or directory: '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/ZpxhfHSHi7Q.f135.mp4.part' -> '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/ZpxhfHSHi",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:14.544897+00:00"
+  },
+  "ZS5lDC1yMSo": {
+    "status": "failed: ERROR: [youtube] ZS5lDC1yMSo: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:15.482614+00:00"
+  },
+  "ZRgbix3ihv0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:24.622048+00:00"
+  },
+  "Yuif86dOrEY": {
+    "status": "failed: ERROR: [youtube] Yuif86dOrEY: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:25.551860+00:00"
+  },
+  "YsLUNOu9jXU": {
+    "status": "failed: ERROR: [youtube] YsLUNOu9jXU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:26.256252+00:00"
+  },
+  "Yp5z7Px_aV8": {
+    "status": "failed: ERROR: [youtube] Yp5z7Px_aV8: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:27.095555+00:00"
+  },
+  "YnK5IFMrc6Q": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:35.641587+00:00"
+  },
+  "Yey5VEZE-_g": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:38.206707+00:00"
+  },
+  "kePJ_Y5KPmM": {
+    "status": "failed: ERROR: [youtube] kePJ_Y5KPmM: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:38.970414+00:00"
+  },
+  "kpngPVmD_6Q": {
+    "status": "failed: ERROR: [youtube] kpngPVmD_6Q: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:39.654754+00:00"
+  },
+  "-9AsKTaXwH8": {
+    "status": "failed: ERROR: [youtube] -9AsKTaXwH8: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:41.286830+00:00"
+  },
+  "kymMYu5qPhY": {
+    "status": "failed: ERROR: [youtube] kymMYu5qPhY: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:42.456734+00:00"
+  },
+  "vAVSxCCr9jk": {
+    "status": "failed: ERROR: [youtube] vAVSxCCr9jk: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:43.425414+00:00"
+  },
+  "v8h6mw4zGys": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:51.353467+00:00"
+  },
+  "v3ncKPr_8ro": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:58.964157+00:00"
+  },
+  "v0PgAPiUeHk": {
+    "status": "failed: ERROR: [youtube] v0PgAPiUeHk: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:32:59.744737+00:00"
+  },
+  "uVXtydfzLIo": {
+    "status": "failed: ERROR: [youtube] uVXtydfzLIo: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:00.658660+00:00"
+  },
+  "uLjkLwFvFtw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:08.155006+00:00"
+  },
+  "u7GIbrpxyFU": {
+    "status": "failed: ERROR: [youtube] u7GIbrpxyFU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:09.085784+00:00"
+  },
+  "u1xoXux2NaE": {
+    "status": "failed: ERROR: [youtube] u1xoXux2NaE: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:09.961470+00:00"
+  },
+  "trqyl20lEno": {
+    "status": "failed: ERROR: [youtube] trqyl20lEno: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:10.659529+00:00"
+  },
+  "tp7A4b_dO0k": {
+    "status": "failed: ERROR: [youtube] tp7A4b_dO0k: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:11.378191+00:00"
+  },
+  "tXhJplJXFmo": {
+    "status": "failed: ERROR: [youtube] tXhJplJXFmo: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:12.315106+00:00"
+  },
+  "tRJ29Rh8pGg": {
+    "status": "failed: ERROR: [youtube] tRJ29Rh8pGg: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:13.061615+00:00"
+  },
+  "tGm13N0s4wQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:21.400561+00:00"
+  },
+  "sdr-c7NRai8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:30.618603+00:00"
+  },
+  "sbODkAcZ5Mw": {
+    "status": "failed: ERROR: [youtube] sbODkAcZ5Mw: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:31.558296+00:00"
+  },
+  "sT8fYiXBtZE": {
+    "status": "failed: ERROR: [youtube] sT8fYiXBtZE: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:32.490003+00:00"
+  },
+  "sSpld6bXlM0": {
+    "status": "failed: ERROR: [youtube] sSpld6bXlM0: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:33.256043+00:00"
+  },
+  "sSdQWC7mUZc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:42.883118+00:00"
+  },
+  "sR_PzooQLx4": {
+    "status": "failed: ERROR: [youtube] sR_PzooQLx4: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:43.690199+00:00"
+  },
+  "sP4e9vRUCYM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:33:52.792493+00:00"
+  },
+  "sMRpqyQK72c": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:00.386810+00:00"
+  },
+  "sK9DAZw4_zs": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:05.622108+00:00"
+  },
+  "s3wDKw4Y4w0": {
+    "status": "failed: ERROR: [youtube] s3wDKw4Y4w0: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:06.589518+00:00"
+  },
+  "s-y1OtBgHkU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:19.365124+00:00"
+  },
+  "rul1iWBt3Jg": {
+    "status": "failed: ERROR: [youtube] rul1iWBt3Jg: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:21.025889+00:00"
+  },
+  "rhpYRl3kHQU": {
+    "status": "failed: ERROR: [youtube] rhpYRl3kHQU: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:22.042054+00:00"
+  },
+  "rdtLwk9PeEU": {
+    "status": "failed: ERROR: [youtube] rdtLwk9PeEU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:22.814103+00:00"
+  },
+  "rbnYbQyFvK4": {
+    "status": "failed: ERROR: [youtube] rbnYbQyFvK4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:23.575431+00:00"
+  },
+  "rbEp5hFQljM": {
+    "status": "failed: ERROR: [youtube] rbEp5hFQljM: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:24.406834+00:00"
+  },
+  "vK4GwJaDcWU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:33.527894+00:00"
+  },
+  "vMLkIHIe_fA": {
+    "status": "failed: ERROR: [youtube] vMLkIHIe_fA: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:34.338707+00:00"
+  },
+  "v_raVhhnAIE": {
+    "status": "failed: ERROR: [youtube] v_raVhhnAIE: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:35.109405+00:00"
+  },
+  "xKY35YaWuLE": {
+    "status": "failed: ERROR: [youtube] xKY35YaWuLE: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:35.893314+00:00"
+  },
+  "zsInxFbekV8": {
+    "status": "failed: ERROR: [youtube] zsInxFbekV8: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:37.003170+00:00"
+  },
+  "zgdzYtHB6jg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:45.740758+00:00"
+  },
+  "zfNH9EdhgNo": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:54.395816+00:00"
+  },
+  "zW5FrLEDRiM": {
+    "status": "failed: ERROR: [youtube] zW5FrLEDRiM: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:34:56.404234+00:00"
+  },
+  "zTIJAgTai40": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:09.857104+00:00"
+  },
+  "zOzgRJ3bAdI": {
+    "status": "failed: ERROR: [youtube] zOzgRJ3bAdI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:12.218908+00:00"
+  },
+  "zICB0wesqvY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:18.119658+00:00"
+  },
+  "yawcLQIhQiE": {
+    "status": "failed: ERROR: [youtube] yawcLQIhQiE: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:18.914674+00:00"
+  },
+  "y8Rm0Q7fDYk": {
+    "status": "failed: ERROR: [youtube] y8Rm0Q7fDYk: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:19.559341+00:00"
+  },
+  "y3aZGBOFqtU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:27.829381+00:00"
+  },
+  "y3ZYWbCLnGU": {
+    "status": "failed: ERROR: [youtube] y3ZYWbCLnGU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:30.116652+00:00"
+  },
+  "xt3jJMKpCqY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:39.396982+00:00"
+  },
+  "xUtx5xCoVXI": {
+    "status": "failed: ERROR: [youtube] xUtx5xCoVXI: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:40.384950+00:00"
+  },
+  "xK2QEO7Xld4": {
+    "status": "failed: ERROR: [youtube] xK2QEO7Xld4: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:41.322563+00:00"
+  },
+  "vmGh2IPdSRU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:48.600455+00:00"
+  },
+  "xFxoieTtJlA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:35:56.761925+00:00"
+  },
+  "xCQmc-1g9fM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:06.214711+00:00"
+  },
+  "x5cwBfSKnZc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:10.978445+00:00"
+  },
+  "x3GJ5mFOpNA": {
+    "status": "failed: ERROR: [youtube] x3GJ5mFOpNA: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:11.927623+00:00"
+  },
+  "wtURQzK00eo": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:21.596429+00:00"
+  },
+  "wc2A8AZepy4": {
+    "status": "failed: ERROR: [youtube] wc2A8AZepy4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:22.542019+00:00"
+  },
+  "wEKZPaO7XTQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:30.928431+00:00"
+  },
+  "w9jgHLG_4ow": {
+    "status": "failed: ERROR: [youtube] w9jgHLG_4ow: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:31.795829+00:00"
+  },
+  "w6ZfGv4ns64": {
+    "status": "failed: ERROR: [youtube] w6ZfGv4ns64: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:32.818671+00:00"
+  },
+  "w1_BBOZWwPY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:42.192496+00:00"
+  },
+  "vz9KBYTBL4o": {
+    "status": "failed: ERROR: [youtube] vz9KBYTBL4o: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:43.623106+00:00"
+  },
+  "vuE3RN10AGA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:51.847927+00:00"
+  },
+  "vrAcHSfVt88": {
+    "status": "failed: ERROR: [youtube] vrAcHSfVt88: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:36:52.731232+00:00"
+  },
+  "rTUmMfWQ2rw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:37:02.229090+00:00"
+  },
+  "rSdZfzJZZh8": {
+    "status": "failed: ERROR: [youtube] rSdZfzJZZh8: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:37:03.468556+00:00"
+  },
+  "rNb-ogcyRAE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:37:08.375098+00:00"
+  },
+  "luSKhV7GMUo": {
+    "status": "failed: ERROR: [youtube] luSKhV7GMUo: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:37:09.323595+00:00"
+  },
+  "n1PjPqcHswk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:37:17.426972+00:00"
+  },
+  "mxX9mVMl8O4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:37:25.574611+00:00"
+  },
+  "mskmnqYYsGw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:37:34.481364+00:00"
+  },
+  "mda48XkT9gQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T06:55:38.206917+00:00"
+  },
+  "m_nEgm4uX6U": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:10:42.112737+00:00"
+  },
+  "mKDG2tGn1Y8": {
+    "status": "failed: ERROR: [youtube] mKDG2tGn1Y8: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:10:42.919582+00:00"
+  },
+  "mK0OtDTC5To": {
+    "status": "failed: ERROR: [youtube] mK0OtDTC5To: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:10:43.601799+00:00"
+  },
+  "mJrUYRjvrew": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:10:46.433559+00:00"
+  },
+  "mEgQI-DHntY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:10:48.729508+00:00"
+  },
+  "mBNbzPNTVqk": {
+    "status": "failed: ERROR: [youtube] mBNbzPNTVqk: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:10:49.462612+00:00"
+  },
+  "m4YhzJV_wzQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:12:39.901356+00:00"
+  },
+  "lyAWyqDxUqg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:12:42.536274+00:00"
+  },
+  "lvwn7OAGJWk": {
+    "status": "failed: ERROR: [youtube] lvwn7OAGJWk: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:12:43.233025+00:00"
+  },
+  "lsjFBdE3X7M": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:12:45.493483+00:00"
+  },
+  "nBhhhS7HXIo": {
+    "status": "failed: ERROR: [youtube] nBhhhS7HXIo: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:27:46.715753+00:00"
+  },
+  "lmWVuurMMOc": {
+    "status": "failed: ERROR: [youtube] lmWVuurMMOc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:27:47.432058+00:00"
+  },
+  "lgNwgl10VSg": {
+    "status": "failed: ERROR: [youtube] lgNwgl10VSg: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:27:48.268208+00:00"
+  },
+  "l_aBsu7kVqI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:32:59.315678+00:00"
+  },
+  "lVo6MByRMHY": {
+    "status": "failed: ERROR: [youtube] lVo6MByRMHY: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:33:00.169354+00:00"
+  },
+  "lTp1ICCGCxA": {
+    "status": "failed: ERROR: [youtube] lTp1ICCGCxA: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:33:01.239148+00:00"
+  },
+  "lT0E7jGHIKY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:42:48.685451+00:00"
+  },
+  "lSqfurbjfDc": {
+    "status": "failed: ERROR: [youtube] lSqfurbjfDc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:42:49.390141+00:00"
+  },
+  "lPM0S5NBl_0": {
+    "status": "failed: ERROR: [youtube] lPM0S5NBl_0: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:42:50.039022+00:00"
+  },
+  "lMSfIEHvClM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:42:52.445196+00:00"
+  },
+  "lKzYzA2JZaI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:47:32.367579+00:00"
+  },
+  "l5KxrD1W7oQ": {
+    "status": "failed: ERROR: [youtube] l5KxrD1W7oQ: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:47:33.641439+00:00"
+  },
+  "l3pElzy2Png": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:47:36.409723+00:00"
+  },
+  "l31UXgChCS4": {
+    "status": "failed: ERROR: [youtube] l31UXgChCS4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:47:37.152289+00:00"
+  },
+  "n5hGwUxGm0Y": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:00.017147+00:00"
+  },
+  "nI-XX3BtUlQ": {
+    "status": "failed: ERROR: [youtube] nI-XX3BtUlQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:00.884249+00:00"
+  },
+  "rDAGt54vEsI": {
+    "status": "failed: ERROR: [youtube] rDAGt54vEsI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:01.697283+00:00"
+  },
+  "pH3DDpGQe_E": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:10.939530+00:00"
+  },
+  "r9Rten33zC8": {
+    "status": "failed: ERROR: [youtube] r9Rten33zC8: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:12.173542+00:00"
+  },
+  "qtVdE7tBGsU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:21.394561+00:00"
+  },
+  "qk-or6jz0Hk": {
+    "status": "failed: ERROR: [youtube] qk-or6jz0Hk: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:22.508770+00:00"
+  },
+  "qUkCg3rtEws": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:30.286964+00:00"
+  },
+  "qSzyQByTFps": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:38.550120+00:00"
+  },
+  "qMgcmGOiNmw": {
+    "status": "failed: ERROR: [youtube] qMgcmGOiNmw: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:39.344504+00:00"
+  },
+  "qK3SqANZheA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:48.013404+00:00"
+  },
+  "pupBwmtznhI": {
+    "status": "failed: ERROR: [youtube] pupBwmtznhI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:49.307872+00:00"
+  },
+  "pq-48yqB8kM": {
+    "status": "failed: ERROR: [youtube] pq-48yqB8kM: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:50.690228+00:00"
+  },
+  "pm3V4SOB9gk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:57:59.407826+00:00"
+  },
+  "pkzfT9cYvH0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:58:07.781996+00:00"
+  },
+  "pi_BA9L-UNk": {
+    "status": "failed: ERROR: [youtube] pi_BA9L-UNk: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:58:08.830834+00:00"
+  },
+  "pWFDhzkId9o": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:58:12.247690+00:00"
+  },
+  "pDRfD3bNsEo": {
+    "status": "failed: ERROR: [youtube] pDRfD3bNsEo: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:58:12.882580+00:00"
+  },
+  "ngmdzuRjqcA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:58:23.694707+00:00"
+  },
+  "pBnGrdxhxHQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:58:32.232069+00:00"
+  },
+  "p3UKhedGeTA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:58:40.600183+00:00"
+  },
+  "orl2KrOMEIQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:58:49.274581+00:00"
+  },
+  "ofL3HMkLDOc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:00.340131+00:00"
+  },
+  "oId_a4wrcds": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:08.081652+00:00"
+  },
+  "o9GSFqvikro": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:17.046278+00:00"
+  },
+  "o8jWmf65mTQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:26.238603+00:00"
+  },
+  "o1NMZAc7vO4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:28.723708+00:00"
+  },
+  "nyUDOPmQlZQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:36.063376+00:00"
+  },
+  "nsRQOdkyTP8": {
+    "status": "failed: ERROR: [youtube] nsRQOdkyTP8: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:36.854813+00:00"
+  },
+  "nrXA-R3VgJ8": {
+    "status": "failed: ERROR: Unable to rename file: [Errno 2] No such file or directory: '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/nrXA-R3VgJ8.f251.webm.part' -> '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/nrXA-R3V",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:48.389003+00:00"
+  },
+  "nmD3uqyVAC0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T07:59:58.557403+00:00"
+  },
+  "niBJ6C9Rs_8": {
+    "status": "failed: ERROR: [youtube] niBJ6C9Rs_8: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:03.329294+00:00"
+  },
+  "UQakVMOT350": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:06.461630+00:00"
+  },
+  "UJINxF1cSUA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:09.426683+00:00"
+  },
+  "UCVlTV4FF9g": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:12.146185+00:00"
+  },
+  "U8mXqYD9S4Q": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:15.309608+00:00"
+  },
+  "BC2ahgTLYbk": {
+    "status": "failed: ERROR: [youtube] BC2ahgTLYbk: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:16.891424+00:00"
+  },
+  "AsdBSknwrjg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:23.556820+00:00"
+  },
+  "Aq6l7fEWRVM": {
+    "status": "failed: ERROR: [youtube] Aq6l7fEWRVM: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:25.345702+00:00"
+  },
+  "AoyNI1BJmOE": {
+    "status": "failed: ERROR: [youtube] AoyNI1BJmOE: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:26.390531+00:00"
+  },
+  "AkAg7GO240c": {
+    "status": "failed: ERROR: [youtube] AkAg7GO240c: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:27.195048+00:00"
+  },
+  "A_rNr7i1uAs": {
+    "status": "failed: ERROR: [youtube] A_rNr7i1uAs: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:27.861754+00:00"
+  },
+  "AUEQVbV588c": {
+    "status": "failed: ERROR: [youtube] AUEQVbV588c: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:29.431555+00:00"
+  },
+  "ASCPx0sjuwM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:39.096333+00:00"
+  },
+  "AK26EQRsH7k": {
+    "status": "failed: ERROR: [youtube] AK26EQRsH7k: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:40.972970+00:00"
+  },
+  "AFkia1eR0_E": {
+    "status": "failed: ERROR: [youtube] AFkia1eR0_E: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:41.873434+00:00"
+  },
+  "A1nZLK4Qodw": {
+    "status": "failed: ERROR: [youtube] A1nZLK4Qodw: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:42.553747+00:00"
+  },
+  "A-n2pjNaz-k": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:55.371979+00:00"
+  },
+  "9bkVAOz1ips": {
+    "status": "failed: ERROR: [youtube] 9bkVAOz1ips: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:56.181283+00:00"
+  },
+  "9YdNdSUawfc": {
+    "status": "failed: ERROR: [youtube] 9YdNdSUawfc: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:00:57.071787+00:00"
+  },
+  "9V_pXf6tP_U": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:05.538021+00:00"
+  },
+  "9Rcg3QJiClc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:14.954742+00:00"
+  },
+  "9AYysHe14jg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:24.386316+00:00"
+  },
+  "97IwdVSOQho": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:33.897391+00:00"
+  },
+  "8yzUd0Md_uY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:36.965500+00:00"
+  },
+  "8vc2vD9N4tk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:45.551927+00:00"
+  },
+  "8kWVajLqBL4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:49.221970+00:00"
+  },
+  "8dyicrBmgKE": {
+    "status": "failed: ERROR: [youtube] 8dyicrBmgKE: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:50.061052+00:00"
+  },
+  "8WU50RPuCL0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:01:58.116174+00:00"
+  },
+  "88xSMjuFPHA": {
+    "status": "failed: ERROR: Unable to rename file: [Errno 2] No such file or directory: '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/88xSMjuFPHA.f137.mp4.part' -> '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/88xSMjuFP",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:05.915891+00:00"
+  },
+  "7xQE2N0z7gM": {
+    "status": "failed: ERROR: Unable to rename file: [Errno 2] No such file or directory: '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/7xQE2N0z7gM.f399.mp4.part' -> '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/7xQE2N0z7",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:14.851333+00:00"
+  },
+  "7byMTWfeQxQ": {
+    "status": "failed: ERROR: Unable to rename file: [Errno 2] No such file or directory: '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/7byMTWfeQxQ.f251.webm.part' -> '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/7byMTWfe",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:26.791527+00:00"
+  },
+  "7O2mS0Kz4CA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:35.847255+00:00"
+  },
+  "7Mhil9I1Ocs": {
+    "status": "failed: ERROR: [youtube] 7Mhil9I1Ocs: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:37.204133+00:00"
+  },
+  "7IkKMzvSsFM": {
+    "status": "failed: ERROR: [youtube] 7IkKMzvSsFM: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:39.338779+00:00"
+  },
+  "BEfH2a6OfRA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:47.063112+00:00"
+  },
+  "BNOGQec2v8M": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:50.722969+00:00"
+  },
+  "BOBKWrkwqUI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:58.018193+00:00"
+  },
+  "DB5oSxy6rrc": {
+    "status": "failed: ERROR: [youtube] DB5oSxy6rrc: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:02:58.720590+00:00"
+  },
+  "FC1R9kyegJY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:08.227325+00:00"
+  },
+  "F84dU7A7jI0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:15.807189+00:00"
+  },
+  "F4cpgfDA0ds": {
+    "status": "failed: ERROR: [youtube] F4cpgfDA0ds: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:17.249129+00:00"
+  },
+  "EfJ4xLiX5IA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:25.503054+00:00"
+  },
+  "ESK6NAvvsKg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:30.428173+00:00"
+  },
+  "EOUkGLfYQ7M": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:39.481243+00:00"
+  },
+  "DnDbjT1fq8I": {
+    "status": "failed: ERROR: [youtube] DnDbjT1fq8I: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:40.490869+00:00"
+  },
+  "Dl5AFJH040s": {
+    "status": "failed: ERROR: [youtube] Dl5AFJH040s: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:41.804866+00:00"
+  },
+  "Ddd2ZZNFhVI": {
+    "status": "failed: ERROR: [youtube] Ddd2ZZNFhVI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:43.000613+00:00"
+  },
+  "Dd95RFhtSs4": {
+    "status": "failed: ERROR: [youtube] Dd95RFhtSs4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:43.666910+00:00"
+  },
+  "DV17xsFO5Jg": {
+    "status": "failed: ERROR: [youtube] DV17xsFO5Jg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:44.649739+00:00"
+  },
+  "DQdDGulGFwc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:03:58.256327+00:00"
+  },
+  "DPOkRwo1a6A": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:06.122017+00:00"
+  },
+  "DAotz9r5g_o": {
+    "status": "failed: ERROR: [youtube] DAotz9r5g_o: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:07.315391+00:00"
+  },
+  "BT3cFFLNzD8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:14.053021+00:00"
+  },
+  "D2Vg3lKjX78": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:18.704326+00:00"
+  },
+  "D1Zl-7gp0Zs": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:29.590666+00:00"
+  },
+  "Cw7DfeqaQu0": {
+    "status": "failed: ERROR: [youtube] Cw7DfeqaQu0: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:31.231936+00:00"
+  },
+  "CsqxlMUHwyg": {
+    "status": "failed: ERROR: [youtube] CsqxlMUHwyg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:32.980636+00:00"
+  },
+  "CMElqMGZrHc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:43.874838+00:00"
+  },
+  "CGLQEeEzo1s": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:04:54.362157+00:00"
+  },
+  "BzA6aV3_izM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:04.184130+00:00"
+  },
+  "BsaWM5I_G1o": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:07.439810+00:00"
+  },
+  "BqmquW0f1ok": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:12.236840+00:00"
+  },
+  "Bpbc7RhARRg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:14.970358+00:00"
+  },
+  "Bibgy-yjgYE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:18.257616+00:00"
+  },
+  "BZxoTuwBHvA": {
+    "status": "failed: ERROR: [youtube] BZxoTuwBHvA: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:19.088139+00:00"
+  },
+  "BVypOVtFnNk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:22.757986+00:00"
+  },
+  "7FvR0sUKA84": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:25.991911+00:00"
+  },
+  "7Do9s2qJpeA": {
+    "status": "failed: ERROR: [youtube] 7Do9s2qJpeA: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:26.945172+00:00"
+  },
+  "7B830ksHv20": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:31.399423+00:00"
+  },
+  "0UsjUE-TXns": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:36.062643+00:00"
+  },
+  "2EAilZspev4": {
+    "status": "failed: ERROR: [youtube] 2EAilZspev4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:37.008961+00:00"
+  },
+  "22cYLTT67sc": {
+    "status": "failed: ERROR: [youtube] 22cYLTT67sc: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:37.844295+00:00"
+  },
+  "21Naa_OgS4A": {
+    "status": "failed: ERROR: [youtube] 21Naa_OgS4A: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:39.286953+00:00"
+  },
+  "1vXrp5awuHc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:49.229494+00:00"
+  },
+  "1t6GrmgKN5U": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:54.419539+00:00"
+  },
+  "1nt04tWWp5s": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:05:59.003497+00:00"
+  },
+  "1n3eN9v8VV0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:02.004277+00:00"
+  },
+  "1ZEAGpAH284": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:05.670530+00:00"
+  },
+  "1QOYOZ3g-aY": {
+    "status": "failed: ERROR: [youtube] 1QOYOZ3g-aY: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:06.956449+00:00"
+  },
+  "15czV0-SagI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:10.178215+00:00"
+  },
+  "13NxXYPYpb0": {
+    "status": "failed: ERROR: [youtube] 13NxXYPYpb0: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:11.369417+00:00"
+  },
+  "0usayvOXzHo": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:15.585852+00:00"
+  },
+  "0qeMFifNqC4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:22.632723+00:00"
+  },
+  "0FYsztUQnUM": {
+    "status": "failed: ERROR: [youtube] 0FYsztUQnUM: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:25.169693+00:00"
+  },
+  "2O8jkekJkiE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:34.500513+00:00"
+  },
+  "0F7ugTN-VX8": {
+    "status": "failed: ERROR: [youtube] 0F7ugTN-VX8: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:35.670413+00:00"
+  },
+  "0DgYClc0e-E": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:40.018365+00:00"
+  },
+  "0C7Gfubq690": {
+    "status": "failed: ERROR: [youtube] 0C7Gfubq690: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:40.866979+00:00"
+  },
+  "0AbAh8gsQZg": {
+    "status": "failed: ERROR: [youtube] 0AbAh8gsQZg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:41.926633+00:00"
+  },
+  "06hMAkUdQgg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:46.883982+00:00"
+  },
+  "-wmqgdmwySo": {
+    "status": "failed: ERROR: [youtube] -wmqgdmwySo: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:48.072493+00:00"
+  },
+  "-tJtocMNeI8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:51.088956+00:00"
+  },
+  "-on_5PoBEak": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:54.960154+00:00"
+  },
+  "-lxp0xh1smo": {
+    "status": "failed: ERROR: [youtube] -lxp0xh1smo: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:55.644393+00:00"
+  },
+  "-kKuV4iM_NQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:06:58.448808+00:00"
+  },
+  "-_RSZM-lLXE": {
+    "status": "failed: ERROR: Unable to rename file: [Errno 2] No such file or directory: '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/-_RSZM-lLXE.f137.mp4.part' -> '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/-_RSZM-lL",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:06.650165+00:00"
+  },
+  "-VJGz9f7DMY": {
+    "status": "failed: ERROR: [youtube] -VJGz9f7DMY: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:07.619727+00:00"
+  },
+  "-IWU7gZ-gAQ": {
+    "status": "failed: ERROR: [youtube] -IWU7gZ-gAQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:08.427603+00:00"
+  },
+  "2GhoeP8Gcyk": {
+    "status": "failed: ERROR: [youtube] 2GhoeP8Gcyk: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:09.197207+00:00"
+  },
+  "2RLybfKx4Js": {
+    "status": "failed: ERROR: [youtube] 2RLybfKx4Js: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:10.106024+00:00"
+  },
+  "75FwzqQqyM0": {
+    "status": "failed: ERROR: [youtube] 75FwzqQqyM0: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:10.969670+00:00"
+  },
+  "4gTs30ozIrA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:20.267276+00:00"
+  },
+  "6lQwfs5E7lM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:22.884208+00:00"
+  },
+  "6gU3Ln98sWA": {
+    "status": "failed: ERROR: [youtube] 6gU3Ln98sWA: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:25.083147+00:00"
+  },
+  "6I9PNDl8A_U": {
+    "status": "failed: ERROR: [youtube] 6I9PNDl8A_U: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:26.049620+00:00"
+  },
+  "61B8V3YHlqg": {
+    "status": "failed: ERROR: [youtube] 61B8V3YHlqg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:27.085564+00:00"
+  },
+  "5iv2XtBzogU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:30.231200+00:00"
+  },
+  "5UnUWDYxfv0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:35.298512+00:00"
+  },
+  "5IGeT5NK79A": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:38.175776+00:00"
+  },
+  "5E38gLsXn3E": {
+    "status": "failed: ERROR: [youtube] 5E38gLsXn3E: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:38.958485+00:00"
+  },
+  "5Dr7V1fbTFU": {
+    "status": "failed: ERROR: [youtube] 5Dr7V1fbTFU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:40.116188+00:00"
+  },
+  "54csIWbS-Gc": {
+    "status": "failed: ERROR: [youtube] 54csIWbS-Gc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:41.393168+00:00"
+  },
+  "537MWOtCl78": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:45.636050+00:00"
+  },
+  "4nGdzLPvoP4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:48.610698+00:00"
+  },
+  "4ln_5SQd__w": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:07:54.461247+00:00"
+  },
+  "4Md8yfrXzp8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:03.602054+00:00"
+  },
+  "2YRASxmXLD0": {
+    "status": "failed: ERROR: [youtube] 2YRASxmXLD0: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:06.491564+00:00"
+  },
+  "40-GTK0E2k4": {
+    "status": "failed: ERROR: [youtube] 40-GTK0E2k4: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:07.396539+00:00"
+  },
+  "3xNKnBbX6aA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:11.461764+00:00"
+  },
+  "3VAeP_x9tFg": {
+    "status": "failed: [Errno 2] No such file or directory: '/Users/sahilchauhan/sign-language-recognition/data/raw/youtube_sources/3VAeP_x9tFg.f299.mp4'",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:19.939559+00:00"
+  },
+  "3PcHDlj9WEc": {
+    "status": "failed: ERROR: [youtube] 3PcHDlj9WEc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:21.405461+00:00"
+  },
+  "3KH3aihCcF8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:28.947118+00:00"
+  },
+  "3J2KaRL9i_Q": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:37.454784+00:00"
+  },
+  "3HztBiJlikY": {
+    "status": "failed: ERROR: [youtube] 3HztBiJlikY: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:38.474569+00:00"
+  },
+  "3FdpwAJlbaU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:45.973299+00:00"
+  },
+  "3B2kbN-ai6Y": {
+    "status": "failed: ERROR: [youtube] 3B2kbN-ai6Y: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:46.811348+00:00"
+  },
+  "3-GrhsVs830": {
+    "status": "failed: ERROR: [youtube] 3-GrhsVs830: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:47.493773+00:00"
+  },
+  "2x5hblbX1Ho": {
+    "status": "failed: ERROR: [youtube] 2x5hblbX1Ho: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:48.565007+00:00"
+  },
+  "2wmuIc7XVUY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:08:58.835578+00:00"
+  },
+  "2igUp9Fvq-E": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:05.328943+00:00"
+  },
+  "FH3mTCczlsc": {
+    "status": "failed: ERROR: [youtube] FH3mTCczlsc: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:06.168858+00:00"
+  },
+  "FSxHpeiCuBc": {
+    "status": "failed: ERROR: [youtube] FSxHpeiCuBc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:07.155982+00:00"
+  },
+  "FwfWrRxzSxw": {
+    "status": "failed: ERROR: [youtube] FwfWrRxzSxw: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:08.055342+00:00"
+  },
+  "OwtSP1QozuE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:10.857679+00:00"
+  },
+  "R0MW-QKaqeQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:13.868839+00:00"
+  },
+  "Qvn5RGyb0po": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:17.569714+00:00"
+  },
+  "QkTP_AyKk_k": {
+    "status": "failed: ERROR: [youtube] QkTP_AyKk_k: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:18.543979+00:00"
+  },
+  "QhYtXRY5ULQ": {
+    "status": "failed: ERROR: [youtube] QhYtXRY5ULQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:20.143798+00:00"
+  },
+  "QfVrSA3yrSc": {
+    "status": "failed: ERROR: [youtube] QfVrSA3yrSc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:21.553619+00:00"
+  },
+  "QPiZO8Aswgo": {
+    "status": "failed: ERROR: [youtube] QPiZO8Aswgo: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:22.353477+00:00"
+  },
+  "QJXKaOSyl4o": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:24.974112+00:00"
+  },
+  "PrniQgULERg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:29.649659+00:00"
+  },
+  "PkJpgPxNhwE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:32.914555+00:00"
+  },
+  "PfobLrBH5G8": {
+    "status": "failed: ERROR: [youtube] PfobLrBH5G8: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:34.045268+00:00"
+  },
+  "PeO4kaKvoVM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:36.992255+00:00"
+  },
+  "PJs5VaRTMak": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:39.610324+00:00"
+  },
+  "P1JsNQUgyeg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:42.047613+00:00"
+  },
+  "OmylSinUxns": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:44.467442+00:00"
+  },
+  "R6T2OTSZNck": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:47.241594+00:00"
+  },
+  "OgcjUatW9LA": {
+    "status": "failed: ERROR: [youtube] OgcjUatW9LA: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:48.419225+00:00"
+  },
+  "OdOx4qaYlKI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:51.362081+00:00"
+  },
+  "Ob3drndU_yM": {
+    "status": "failed: ERROR: [youtube] Ob3drndU_yM: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:52.089690+00:00"
+  },
+  "OWXmFhatan8": {
+    "status": "failed: ERROR: [youtube] OWXmFhatan8: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:09:53.532869+00:00"
+  },
+  "OUY3FFvAjJ0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:04.598651+00:00"
+  },
+  "OQM3x-HY2dM": {
+    "status": "failed: ERROR: [youtube] OQM3x-HY2dM: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:06.093286+00:00"
+  },
+  "OL02Odh2dRg": {
+    "status": "failed: ERROR: [youtube] OL02Odh2dRg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:07.825590+00:00"
+  },
+  "OHHKerxHJjQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:17.182535+00:00"
+  },
+  "ODByBNyosxc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:26.961583+00:00"
+  },
+  "O8XiLkrSx48": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:35.343797+00:00"
+  },
+  "O6-OsGXF0Uw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:43.563560+00:00"
+  },
+  "O5_4x8p5t4U": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:51.111386+00:00"
+  },
+  "NuNbd8a665I": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:10:59.136818+00:00"
+  },
+  "R62C5PdSB1o": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:01.718668+00:00"
+  },
+  "RStYX5OXPjE": {
+    "status": "failed: ERROR: [youtube] RStYX5OXPjE: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:02.516402+00:00"
+  },
+  "NGNoEmYEpCQ": {
+    "status": "failed: ERROR: [youtube] NGNoEmYEpCQ: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:03.285378+00:00"
+  },
+  "TLoZKdMeA8w": {
+    "status": "failed: ERROR: [youtube] TLoZKdMeA8w: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:04.073738+00:00"
+  },
+  "U5p42-d-buw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:06.297298+00:00"
+  },
+  "U3lM2jSLNno": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:08.934576+00:00"
+  },
+  "U32Kznk2a70": {
+    "status": "failed: ERROR: [youtube] U32Kznk2a70: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:09.711388+00:00"
+  },
+  "U2Nf3gOSPhg": {
+    "status": "failed: ERROR: [youtube] U2Nf3gOSPhg: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:12.072624+00:00"
+  },
+  "TxfYzcnSl-o": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:14.564540+00:00"
+  },
+  "TomJbyh-XVY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:17.069592+00:00"
+  },
+  "ToVkVdAa34Q": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:19.837229+00:00"
+  },
+  "TaeaJ9r1A5U": {
+    "status": "failed: ERROR: [youtube] TaeaJ9r1A5U: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:20.703396+00:00"
+  },
+  "TZ65f_6GglU": {
+    "status": "failed: ERROR: [youtube] TZ65f_6GglU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:21.385025+00:00"
+  },
+  "TVFEnWVgoII": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:23.926779+00:00"
+  },
+  "TT0VsmSeuEw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:26.645151+00:00"
+  },
+  "TQMe2WDz9QE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:29.667541+00:00"
+  },
+  "TLsGey9Cd7A": {
+    "status": "failed: ERROR: [youtube] TLsGey9Cd7A: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:30.388948+00:00"
+  },
+  "T2R4utmVagc": {
+    "status": "failed: ERROR: [youtube] T2R4utmVagc: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:31.499798+00:00"
+  },
+  "RVnoNW53qFU": {
+    "status": "failed: ERROR: [youtube] RVnoNW53qFU: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:33.176970+00:00"
+  },
+  "SxrxUgeTt00": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:36.218472+00:00"
+  },
+  "SvfopPYaJJU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:39.749147+00:00"
+  },
+  "SvF0j4h-3uE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:42.785343+00:00"
+  },
+  "SbvomlBCAe8": {
+    "status": "failed: ERROR: [youtube] SbvomlBCAe8: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:43.486162+00:00"
+  },
+  "SbXfT74yfDI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:47.219451+00:00"
+  },
+  "S__GZ7Vki30": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:50.185939+00:00"
+  },
+  "SX3ppKcVdKA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:52.835095+00:00"
+  },
+  "SQUHKsHMUiw": {
+    "status": "failed: ERROR: [youtube] SQUHKsHMUiw: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:53.916300+00:00"
+  },
+  "S8k8gjRdYXw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:57.226094+00:00"
+  },
+  "RoY7cjIPNxY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:11:59.745205+00:00"
+  },
+  "RnbIsdsBc5Y": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:03.197983+00:00"
+  },
+  "Rl52rS9gxSU": {
+    "status": "failed: ERROR: [youtube] Rl52rS9gxSU: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:03.991372+00:00"
+  },
+  "RhHvcp1K0-g": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:06.506763+00:00"
+  },
+  "Nc7rSopCpI8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:09.142279+00:00"
+  },
+  "N18WPFcphhs": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:15.048378+00:00"
+  },
+  "G6pN8BFQYDI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:19.715373+00:00"
+  },
+  "I0v6P6HEGCA": {
+    "status": "failed: ERROR: [youtube] I0v6P6HEGCA: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:20.471102+00:00"
+  },
+  "JDc62QM6-GU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:23.440209+00:00"
+  },
+  "JD2yYYdS4xg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:34.221532+00:00"
+  },
+  "J9hiREjgVe0": {
+    "status": "failed: ERROR: [youtube] J9hiREjgVe0: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:35.312097+00:00"
+  },
+  "IuBUE7SH1Wk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:44.362535+00:00"
+  },
+  "IqCHIu9NrZs": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:12:54.341970+00:00"
+  },
+  "IgT0jDp56ZM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:13:03.043811+00:00"
+  },
+  "IbpJtH_QssM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:13:11.813076+00:00"
+  },
+  "IYH-gBXXl8I": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:13:14.918240+00:00"
+  },
+  "IRuaSHyrm6o": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:13:18.539075+00:00"
+  },
+  "IRIy8xUFfHk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:13:26.680852+00:00"
+  },
+  "IJyUcYJMpmU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:13:35.832821+00:00"
+  },
+  "IEVgcJA3JWk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:13:44.910199+00:00"
+  },
+  "I2_nB2cXP58": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:13:54.205607+00:00"
+  },
+  "Huy9y5RyKAU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:06.716157+00:00"
+  },
+  "JLNxO35tB-U": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:09.818849+00:00"
+  },
+  "HoDXS3W8lEM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:17.722347+00:00"
+  },
+  "HZMTQJdBZ9g": {
+    "status": "failed: ERROR: [youtube] HZMTQJdBZ9g: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:18.572545+00:00"
+  },
+  "HV_8ELVFXzU": {
+    "status": "failed: ERROR: [youtube] HV_8ELVFXzU: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:19.484833+00:00"
+  },
+  "HTCXKjM5h-4": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:28.041932+00:00"
+  },
+  "HNp5UcfuRSI": {
+    "status": "failed: ERROR: [youtube] HNp5UcfuRSI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:29.174908+00:00"
+  },
+  "HGBcts4shKw": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:39.302817+00:00"
+  },
+  "HAqSIA2GG3g": {
+    "status": "failed: ERROR: [youtube] HAqSIA2GG3g: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:40.681752+00:00"
+  },
+  "GobeSyJHyLk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:49.161969+00:00"
+  },
+  "Gmj2_uVjhqI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:14:52.344596+00:00"
+  },
+  "GfUdx7LmGhc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:03.058731+00:00"
+  },
+  "GZ_G19YmWO8": {
+    "status": "failed: ERROR: [youtube] GZ_G19YmWO8: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:04.047143+00:00"
+  },
+  "GLAPZdS-gpU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:06.776458+00:00"
+  },
+  "G7MMoJZRltk": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:09.395306+00:00"
+  },
+  "JI7l0z8hEKY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:12.078451+00:00"
+  },
+  "JPvbOOrG-gU": {
+    "status": "failed: ERROR: [youtube] JPvbOOrG-gU: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:12.962099+00:00"
+  },
+  "N0969RhLMp0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:15.360647+00:00"
+  },
+  "Lk2Vws8homw": {
+    "status": "failed: ERROR: [youtube] Lk2Vws8homw: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:16.119048+00:00"
+  },
+  "My4w56H6qwk": {
+    "status": "failed: ERROR: [youtube] My4w56H6qwk: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:16.896962+00:00"
+  },
+  "MvtVsr3P098": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:19.380000+00:00"
+  },
+  "MslyAd8WAwU": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:22.129381+00:00"
+  },
+  "Mh3UZ1UsXzw": {
+    "status": "failed: ERROR: [youtube] Mh3UZ1UsXzw: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:22.923637+00:00"
+  },
+  "MIUuj3MCRs8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:25.633835+00:00"
+  },
+  "MI5yNdCJ7kg": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:28.294132+00:00"
+  },
+  "MHJPgvs2kP8": {
+    "status": "failed: ERROR: [youtube] MHJPgvs2kP8: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:29.114586+00:00"
+  },
+  "MEhxsAx_n6A": {
+    "status": "failed: ERROR: [youtube] MEhxsAx_n6A: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:29.893375+00:00"
+  },
+  "M80w0mda7zM": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:32.971770+00:00"
+  },
+  "M2pI7j5-mR0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:36.075192+00:00"
+  },
+  "M1gXuGSWqVI": {
+    "status": "failed: ERROR: [youtube] M1gXuGSWqVI: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:36.851773+00:00"
+  },
+  "M-YTVGOSvqA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:40.157628+00:00"
+  },
+  "LqJM7wcUixQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:42.601128+00:00"
+  },
+  "Ldw8UzKED8s": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:45.226174+00:00"
+  },
+  "JSwDsjPxKk0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:49.494500+00:00"
+  },
+  "LXLQyvK23hc": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:52.056916+00:00"
+  },
+  "LCJYxgYwsVE": {
+    "status": "failed: ERROR: [youtube] LCJYxgYwsVE: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:52.808129+00:00"
+  },
+  "Kwvw-K6GYW8": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:55.532035+00:00"
+  },
+  "Kw9nFq7HD4Y": {
+    "status": "failed: ERROR: [youtube] Kw9nFq7HD4Y: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:56.641122+00:00"
+  },
+  "Ku9SWR4uSUI": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:15:59.340946+00:00"
+  },
+  "Kn_IKf8zC1w": {
+    "status": "failed: ERROR: [youtube] Kn_IKf8zC1w: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:00.495927+00:00"
+  },
+  "KRc_WYI1DgA": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:03.426197+00:00"
+  },
+  "KBk8p5Xv2ow": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:06.992886+00:00"
+  },
+  "K47c4lIJQvI": {
+    "status": "failed: ERROR: [youtube] K47c4lIJQvI: Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:07.633534+00:00"
+  },
+  "K1VPkuTMpP0": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:10.366989+00:00"
+  },
+  "JxtYMfvnp58": {
+    "status": "failed: ERROR: [youtube] JxtYMfvnp58: This video is unavailable",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:11.155714+00:00"
+  },
+  "JtgGFe8HIFQ": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:13.828524+00:00"
+  },
+  "JZeO2EXjxOE": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:16.967838+00:00"
+  },
+  "zv4zGZ92WAY": {
+    "status": "downloaded",
+    "instance_count": 1,
+    "timestamp_utc": "2026-11-03T08:16:19.340910+00:00"
+  }
+}
