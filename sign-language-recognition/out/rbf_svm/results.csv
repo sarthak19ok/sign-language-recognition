@@ -1,0 +1,2 @@
+model,feature_set,params,cv_macro_f1_mean,cv_accuracy_mean,validation_accuracy,validation_macro_f1,test_accuracy,test_balanced_accuracy,test_macro_f1,n_train,n_validation,n_test,cv,test_used_for_selection
+rbf_svm,both hands + hand angles; 64 frames; two temporal bins,"{""C"": 100, ""gamma"": ""scale""}",0.34058125421131313,0.34789006880642726,0.40476190476190477,0.3708772893772893,0.5230263157894737,0.5339523809523811,0.48816233766233763,868,294,304,"GroupKFold(3), signer grouped",False

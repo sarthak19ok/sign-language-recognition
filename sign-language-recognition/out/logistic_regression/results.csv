@@ -1,0 +1,2 @@
+model,feature_set,params,cv_macro_f1_mean,cv_accuracy_mean,validation_accuracy,validation_macro_f1,test_accuracy,test_balanced_accuracy,test_macro_f1,n_train,n_validation,n_test,cv,test_used_for_selection
+logistic_regression,both hands + hand angles; 64 frames; two temporal bins,"{""C"": 10}",0.41378882411705975,0.4262498508531201,0.5034013605442177,0.48618442668442663,0.6052631578947368,0.6182857142857143,0.5973535353535353,868,294,304,"GroupKFold(3), signer grouped",False

@@ -1,0 +1,5 @@
+{
+  "selected_by_grouped_cv": "extra_trees",
+  "test_opened_after_model_selection": true,
+  "note": "No model or parameter was selected using test metrics."
+}

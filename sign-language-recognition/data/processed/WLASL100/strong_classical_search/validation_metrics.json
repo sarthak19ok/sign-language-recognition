@@ -1,0 +1,11 @@
+{
+  "selected_family": "svm",
+  "selected_features": "hand_angles_2bins",
+  "selected_config": "svm_bins2_C100_gammascale",
+  "cv_accuracy": 0.33751740046931555,
+  "cv_macro_f1": 0.32911874351266796,
+  "validation_accuracy": 0.4217687074829932,
+  "validation_macro_f1": 0.3741620601620601,
+  "validation_n": 294,
+  "test_split_used": false
+}

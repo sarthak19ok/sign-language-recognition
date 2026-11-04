@@ -1,0 +1,12 @@
+{
+  "selected_model_by_grouped_cv_macro_f1": "lstm",
+  "cv_accuracy": 0.2027800978403532,
+  "cv_macro_f1": 0.1776649447139357,
+  "median_cv_best_epoch": 32,
+  "validation_accuracy": 0.22789115646258504,
+  "validation_balanced_accuracy": 0.23383333333333334,
+  "validation_macro_f1": 0.2052123373702321,
+  "validation_n": 294,
+  "test_split_used": false,
+  "device": "cuda"
+}

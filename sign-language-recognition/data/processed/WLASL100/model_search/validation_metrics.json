@@ -1,0 +1,9 @@
+{
+  "selected_features": "raw_angles_bins4",
+  "selected_model": "extra_trees",
+  "selection": "highest mean 3-fold signer-grouped CV macro-F1",
+  "validation_accuracy": 0.40816326530612246,
+  "validation_macro_f1": 0.36362876012876005,
+  "validation_n": 294,
+  "test_split_used": false
+}

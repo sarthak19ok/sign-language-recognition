@@ -1,0 +1,14 @@
+{
+  "feature_channel_best": "both_hands_coords_angles",
+  "feature_channel_best_cv_accuracy": 0.4193254583780774,
+  "pca_best_components": 160,
+  "pca_best_cv_accuracy": 0.19350912778904664,
+  "grouped_cv_accuracy": 0.4193254583780774,
+  "random_clip_split_mean_accuracy": 0.5881226053639846,
+  "random_split_signer_overlap_per_seed": [
+    28,
+    31,
+    32
+  ],
+  "random_split_warning": "diagnostic only; not valid for model selection or final claims"
+}

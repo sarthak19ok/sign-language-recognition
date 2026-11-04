@@ -1,0 +1,30 @@
+{
+  "n_videos": 1466,
+  "split_counts": {
+    "train": 868,
+    "test": 304,
+    "val": 294
+  },
+  "frames": 32,
+  "raw_shape": [
+    1466,
+    32,
+    225
+  ],
+  "velocity_shape": [
+    1466,
+    32,
+    225
+  ],
+  "angles_shape": [
+    1466,
+    32,
+    32
+  ],
+  "angle_features": 32,
+  "short_gap_limit_frames": 3,
+  "median_missing_before_pct": 31.583333333333332,
+  "median_missing_after_pct": 31.5,
+  "normalization": "per-sequence shoulder centre and shoulder width",
+  "scaler_fit": "No dataset-level imputation/scaling; fit within model training folds"
+}

@@ -1,0 +1,9 @@
+{
+  "selected_features": "hands_coords_angles",
+  "cv_accuracy": 0.41701069880284775,
+  "cv_macro_f1": 0.3986652222335219,
+  "validation_accuracy": 0.5102040816326531,
+  "validation_macro_f1": 0.47105339105339106,
+  "validation_n": 294,
+  "test_split_used": false
+}

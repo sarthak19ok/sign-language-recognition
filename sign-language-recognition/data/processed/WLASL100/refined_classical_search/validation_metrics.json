@@ -1,0 +1,16 @@
+{
+  "selected_family": "extra_trees",
+  "selected_params": {
+    "class_weight": "balanced",
+    "max_features": 0.25,
+    "min_samples_leaf": 1,
+    "n_estimators": 450
+  },
+  "selected_cv_accuracy": 0.4193254583780774,
+  "selected_cv_macro_f1": 0.4051417762340017,
+  "validation_accuracy": 0.4965986394557823,
+  "validation_macro_f1": 0.46875968475968477,
+  "validation_n": 294,
+  "test_split_used": false,
+  "selection": "best grouped-CV macro-F1, accuracy tie-break"
+}

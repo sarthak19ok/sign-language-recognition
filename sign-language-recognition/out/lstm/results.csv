@@ -1,0 +1,2 @@
+model,input,frames,hidden_size,dropout,weight_decay,epochs_median_cv,cv_accuracy,cv_macro_f1,validation_accuracy,validation_macro_f1,test_accuracy,test_balanced_accuracy,test_macro_f1,test_used_for_selection
+lstm,both hands + hand angles + missingness mask,32,96,0.35,0.001,40,0.2638666825756672,0.2520607214971935,0.24829931972789115,0.2108461065078712,0.4868421052631579,0.5057857142857143,0.48597835497835495,False

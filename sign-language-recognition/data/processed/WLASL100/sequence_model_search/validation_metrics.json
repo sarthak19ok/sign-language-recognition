@@ -1,0 +1,13 @@
+{
+  "selected_variant": "hand_angles_mask",
+  "selected_model": "lstm",
+  "cv_accuracy": 0.2638666825756672,
+  "cv_macro_f1": 0.2520607214971935,
+  "training_epochs": 40,
+  "validation_accuracy": 0.2619047619047619,
+  "validation_balanced_accuracy": 0.2768333333333333,
+  "validation_macro_f1": 0.24241584934262278,
+  "validation_n": 294,
+  "test_split_used": false,
+  "device": "cuda"
+}

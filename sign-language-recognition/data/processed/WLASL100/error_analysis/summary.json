@@ -1,0 +1,189 @@
+{
+  "extra_trees": {
+    "n": 294,
+    "accuracy": 0.4965986394557823,
+    "macro_f1": 0.46875968475968477,
+    "classes": 100,
+    "zero_recall_classes": [
+      "clothes",
+      "cool",
+      "deaf",
+      "doctor",
+      "jacket",
+      "africa",
+      "all",
+      "cook",
+      "eat",
+      "need",
+      "right",
+      "study",
+      "computer",
+      "dog",
+      "finish",
+      "mother",
+      "what",
+      "bowling",
+      "letter",
+      "purple",
+      "same",
+      "pizza"
+    ],
+    "top_confusions": [
+      {
+        "true_gloss": "cousin",
+        "predicted_gloss": "hat",
+        "count": 3
+      },
+      {
+        "true_gloss": "candy",
+        "predicted_gloss": "pink",
+        "count": 3
+      },
+      {
+        "true_gloss": "bowling",
+        "predicted_gloss": "dog",
+        "count": 3
+      },
+      {
+        "true_gloss": "last",
+        "predicted_gloss": "hat",
+        "count": 2
+      },
+      {
+        "true_gloss": "tell",
+        "predicted_gloss": "who",
+        "count": 2
+      },
+      {
+        "true_gloss": "decide",
+        "predicted_gloss": "basketball",
+        "count": 2
+      },
+      {
+        "true_gloss": "mother",
+        "predicted_gloss": "bed",
+        "count": 2
+      },
+      {
+        "true_gloss": "want",
+        "predicted_gloss": "walk",
+        "count": 2
+      },
+      {
+        "true_gloss": "finish",
+        "predicted_gloss": "computer",
+        "count": 2
+      },
+      {
+        "true_gloss": "secretary",
+        "predicted_gloss": "dance",
+        "count": 2
+      }
+    ]
+  },
+  "lstm_mask": {
+    "n": 294,
+    "accuracy": 0.2619047619047619,
+    "macro_f1": 0.24241584934262278,
+    "classes": 100,
+    "zero_recall_classes": [
+      "book",
+      "but",
+      "chair",
+      "clothes",
+      "cool",
+      "deaf",
+      "doctor",
+      "africa",
+      "all",
+      "birthday",
+      "can",
+      "cook",
+      "cow",
+      "need",
+      "paper",
+      "right",
+      "school",
+      "study",
+      "thin",
+      "color",
+      "computer",
+      "corn",
+      "dog",
+      "fine",
+      "finish",
+      "fish",
+      "graduate",
+      "hearing",
+      "mother",
+      "paint",
+      "tall",
+      "thursday",
+      "want",
+      "what",
+      "who",
+      "bowling",
+      "candy",
+      "cheat",
+      "hot",
+      "letter",
+      "many",
+      "now",
+      "purple",
+      "before",
+      "tell"
+    ],
+    "top_confusions": [
+      {
+        "true_gloss": "before",
+        "predicted_gloss": "go",
+        "count": 3
+      },
+      {
+        "true_gloss": "pizza",
+        "predicted_gloss": "no",
+        "count": 3
+      },
+      {
+        "true_gloss": "last",
+        "predicted_gloss": "go",
+        "count": 3
+      },
+      {
+        "true_gloss": "bowling",
+        "predicted_gloss": "dog",
+        "count": 3
+      },
+      {
+        "true_gloss": "tell",
+        "predicted_gloss": "pink",
+        "count": 3
+      },
+      {
+        "true_gloss": "many",
+        "predicted_gloss": "basketball",
+        "count": 3
+      },
+      {
+        "true_gloss": "candy",
+        "predicted_gloss": "pink",
+        "count": 3
+      },
+      {
+        "true_gloss": "graduate",
+        "predicted_gloss": "help",
+        "count": 2
+      },
+      {
+        "true_gloss": "letter",
+        "predicted_gloss": "before",
+        "count": 2
+      },
+      {
+        "true_gloss": "meet",
+        "predicted_gloss": "accident",
+        "count": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+model,feature_set,params,cv_macro_f1_mean,cv_accuracy_mean,validation_accuracy,validation_macro_f1,test_accuracy,test_balanced_accuracy,test_macro_f1,n_train,n_validation,n_test,cv,test_used_for_selection
+random_forest,both hands + hand angles; 64 frames; two temporal bins,"{""max_features"": ""sqrt"", ""min_samples_leaf"": 1}",0.36600259572335325,0.39396651155391166,0.4523809523809524,0.412634199134199,0.5592105263157895,0.5912857142857143,0.5484826839826838,868,294,304,"GroupKFold(3), signer grouped",False

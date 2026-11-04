@@ -1,0 +1,2 @@
+model,feature_set,params,cv_macro_f1_mean,cv_accuracy_mean,validation_accuracy,validation_macro_f1,test_accuracy,test_balanced_accuracy,test_macro_f1,n_train,n_validation,n_test,cv,test_used_for_selection
+knn,both hands + hand angles; 64 frames; two temporal bins,"{""n_neighbors"": 5, ""weights"": ""distance""}",0.2600989719294838,0.27069959829773693,0.3333333333333333,0.28867599067599065,0.3980263157894737,0.4211190476190476,0.383551948051948,868,294,304,"GroupKFold(3), signer grouped",False

@@ -1,0 +1,10 @@
+{
+  "feature_set": "both hands + hand joint angles, two temporal half means",
+  "selected_by": "3-fold signer-grouped CV macro-F1, accuracy tie-break",
+  "selected_model": "extra_trees",
+  "validation_accuracy": 0.5102040816326531,
+  "validation_balanced_accuracy": 0.5243571428571429,
+  "validation_macro_f1": 0.4790584415584415,
+  "validation_n": 294,
+  "test_split_used": false
+}

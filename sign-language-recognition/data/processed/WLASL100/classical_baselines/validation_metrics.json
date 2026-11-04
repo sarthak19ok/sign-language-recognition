@@ -1,0 +1,12 @@
+{
+  "selected_representation": "temporal_summary",
+  "selected_model": "random_forest",
+  "selection": "highest mean signer-grouped CV macro-F1 over classes represented in each fold",
+  "validation_n": 294,
+  "validation_accuracy": 0.2925170068027211,
+  "validation_balanced_accuracy": 0.29402380952380947,
+  "validation_macro_f1_present": 0.2440361027861028,
+  "validation_macro_f1_all_train_classes": 0.2440361027861028,
+  "test_split_used": false,
+  "cv": "GroupKFold(3), grouped by signer"
+}

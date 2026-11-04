@@ -1,0 +1,16 @@
+ablation,setting,fold,accuracy,macro_f1
+feature_channels,left_hand_coords_angles,1,0.1896551724137931,0.1850175025432757
+feature_channels,left_hand_coords_angles,2,0.17993079584775087,0.17325036075036074
+feature_channels,left_hand_coords_angles,3,0.16262975778546712,0.13661984274229172
+feature_channels,right_hand_coords_angles,1,0.36551724137931035,0.3459335624284078
+feature_channels,right_hand_coords_angles,2,0.29411764705882354,0.28897891825523403
+feature_channels,right_hand_coords_angles,3,0.3356401384083045,0.2987468313998926
+feature_channels,both_hands_coords,1,0.33448275862068966,0.318170603737614
+feature_channels,both_hands_coords,2,0.2664359861591695,0.24213243810283283
+feature_channels,both_hands_coords,3,0.27335640138408307,0.25825257508930977
+feature_channels,both_hands_coords_angles,1,0.44482758620689655,0.4286437099050804
+feature_channels,both_hands_coords_angles,2,0.39100346020761245,0.3771355958855958
+feature_channels,both_hands_coords_angles,3,0.42214532871972316,0.409646022911329
+feature_channels,both_hands_coords_angles_velocity,1,0.4068965517241379,0.3811009689724062
+feature_channels,both_hands_coords_angles_velocity,2,0.34256055363321797,0.3135663100301258
+feature_channels,both_hands_coords_angles_velocity,3,0.39792387543252594,0.37749198080830726

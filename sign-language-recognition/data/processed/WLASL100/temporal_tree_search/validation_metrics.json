@@ -1,0 +1,11 @@
+{
+  "features": "coords_angles_2bins",
+  "min_samples_leaf": 1,
+  "max_features": "0.5",
+  "cv_accuracy": 0.3824404406793143,
+  "cv_macro_f1": 0.35594761881372533,
+  "validation_accuracy": 0.46598639455782315,
+  "validation_macro_f1": 0.4286300921300921,
+  "validation_n": 294,
+  "test_split_used": false
+}
